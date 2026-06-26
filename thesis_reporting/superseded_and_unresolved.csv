@@ -1,0 +1,8 @@
+item,status,authoritative_replacement,reason
+Short top-level Phase 3 working tree,superseded,thesis_results/03_real_al/phase3_results_20260620/thesis_results/03_real_al,Completed scientific archive is nested under phase3_results_20260620.
+Short top-level Phase 4 working tree and stale md_inventory,superseded,thesis_results/04_bayesian_optimization/Phase4 results/phase4_complete_20260621/thesis_results/04_bayesian_optimization,Completed archive plus reconciled local campaign evidence is authoritative.
+Original Phase 5 duplicated paired-comparison aggregate,superseded,thesis_results/05_self_paced_active_learning/tables/paired_aulc_summary.csv,Corrected aggregate has fold_count=3.
+Original Phase 5 placeholder SVG figures,superseded,thesis_results/THESIS_RESULTS_HANDOFF_20260623/05_phase5_self_paced/figures/,Original SVGs stated Matplotlib unavailable; real figures were regenerated from corrected tables.
+Phase 4 formal human review fields,unresolved,thesis_reporting/phase4_assessment_inventory.csv,All 29 complete campaign rows have blank cgmd_label/reviewer/reviewed_at; outcomes are reproducibly threshold-derived.
+Phase 3 validation trajectories,unresolved,Only terminal holdout JSON and round outcomes are available in completed archive.,No canonical per-round validation metric trajectory was located.
+Repository commit versus current evidence,unresolved_provenance_boundary,Commit plus dirty-working-tree disclosure and file hashes.,Current worktree contains many modifications and unresolved conflicts not represented by commit SHA.

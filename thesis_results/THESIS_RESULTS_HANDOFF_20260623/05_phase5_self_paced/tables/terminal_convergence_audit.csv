@@ -1,0 +1,13 @@
+outer_fold,initial_label_count,reference_strategy,strategy,same_235_sequences_and_order,same_model_seed,parameter_max_abs_difference,holdout_prediction_max_abs_difference,holdout_f1_abs_difference,holdout_pr_auc_abs_difference,numerical_tolerance,parameters_within_tolerance,predictions_within_tolerance,metrics_within_tolerance
+1,10,random,random,True,True,0.0,0.0,0.0,0.0,1e-06,True,True,True
+1,10,random,predictive_entropy,True,True,0.0,0.0,0.0,0.0,1e-06,True,True,True
+1,10,random,static_easy_entropy,True,True,0.0,0.0,0.0,0.0,1e-06,True,True,True
+1,10,random,self_paced_entropy,True,True,0.0,0.0,0.0,0.0,1e-06,True,True,True
+2,10,random,random,True,True,0.0,0.0,0.0,0.0,1e-06,True,True,True
+2,10,random,predictive_entropy,True,True,0.0,0.0,0.0,0.0,1e-06,True,True,True
+2,10,random,static_easy_entropy,True,True,0.0,0.0,0.0,0.0,1e-06,True,True,True
+2,10,random,self_paced_entropy,True,True,0.0,0.0,0.0,0.0,1e-06,True,True,True
+3,10,random,random,True,True,0.0,0.0,0.0,0.0,1e-06,True,True,True
+3,10,random,predictive_entropy,True,True,0.0,0.0,0.0,0.0,1e-06,True,True,True
+3,10,random,static_easy_entropy,True,True,0.0,0.0,0.0,0.0,1e-06,True,True,True
+3,10,random,self_paced_entropy,True,True,0.0,0.0,0.0,0.0,1e-06,True,True,True

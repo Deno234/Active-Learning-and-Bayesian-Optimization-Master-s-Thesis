@@ -1,0 +1,53 @@
+
+
+integrator               = md
+dt                       = 0.020  
+nsteps                   = 5000 ; 100 ps
+nstcomm                  = 100
+comm-grps		 = 
+
+nstxout                  = 500000
+nstvout                  = 500000
+nstfout                  = 500000
+nstlog                   = 50000
+nstenergy                = 50000
+nstxout-compressed       = 50000
+compressed-x-precision   = 50000
+compressed-x-grps        = 
+energygrps               = Protein PW 
+
+
+
+cutoff-scheme            = Verlet
+nstlist                  = 20
+ns_type                  = grid
+pbc                      = xyz
+verlet-buffer-tolerance  = 0.005
+
+coulombtype              = reaction-field 
+rcoulomb                 = 1.1
+epsilon_r                = 2.5 
+epsilon_rf               = 0
+vdw_type                 = cutoff  
+vdw-modifier             = Potential-shift-verlet
+rvdw                     = 1.1
+
+tcoupl                   = v-rescale 
+tc-grps                  = Protein PW
+tau_t                    = 1.0  1.0 
+ref_t                    = 303 303 
+
+; Pressure coupling:
+Pcoupl                   = berendsen
+Pcoupltype               = isotropic
+tau_p                    = 5.0
+compressibility          = 4.5e-5
+ref_p                    = 1.0
+
+
+; MARTINI and CONSTRAINTS 
+; for ring systems and stiff bonds constraints are defined
+; which are best handled using Lincs. 
+
+constraints              = none 
+constraint_algorithm     = Lincs

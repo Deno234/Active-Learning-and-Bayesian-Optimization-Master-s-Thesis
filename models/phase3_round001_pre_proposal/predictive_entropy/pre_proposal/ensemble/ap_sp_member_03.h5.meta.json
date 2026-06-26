@@ -1,0 +1,14 @@
+{
+  "fingerprint": "7441145db20a185892fb4c602b016d32ae4b4717cc31c5e7bba4af31fecf5273",
+  "model_name": "AP_SP",
+  "seed": 20260320,
+  "calibration": {
+    "method": "platt_logit",
+    "coef": 1.521357692451536,
+    "intercept": 1.054052863015584,
+    "center": 0.607652731648405,
+    "scale": 2.6850209622420254,
+    "sample_count": 59,
+    "positive_count": 40
+  }
+}

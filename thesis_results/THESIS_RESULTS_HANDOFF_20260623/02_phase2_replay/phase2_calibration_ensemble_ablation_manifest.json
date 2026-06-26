@@ -1,0 +1,15 @@
+{
+  "source_file": "thesis_results/02_replay/evidence/ablation_summary.csv",
+  "generation_script": "thesis_results/THESIS_RESULTS_HANDOFF_20260623/02_phase2_replay/scripts/generate_phase2_calibration_ensemble_ablation.py",
+  "repository_commit": "7cbfa95d8d56ce4b558238341ed5e19354ffcec2",
+  "timestamp_utc": "2026-06-25T08:06:36.525341+00:00",
+  "output_svg": "thesis_results/THESIS_RESULTS_HANDOFF_20260623/02_phase2_replay/figures/phase2_calibration_ensemble_ablation.svg",
+  "output_pdf": "thesis_results/THESIS_RESULTS_HANDOFF_20260623/02_phase2_replay/figures/phase2_calibration_ensemble_ablation.pdf",
+  "values_csv": "thesis_results/THESIS_RESULTS_HANDOFF_20260623/02_phase2_replay/tables/phase2_calibration_ensemble_ablation_values.csv",
+  "filter": {
+    "evaluation_dataset": "holdout",
+    "aggregation": "arithmetic mean across the six canonical ablation strategy rows for each setup and initial_label_count",
+    "error_bars": "not plotted; no canonical variability columns correspond exactly to these setup-level means"
+  },
+  "warnings": []
+}

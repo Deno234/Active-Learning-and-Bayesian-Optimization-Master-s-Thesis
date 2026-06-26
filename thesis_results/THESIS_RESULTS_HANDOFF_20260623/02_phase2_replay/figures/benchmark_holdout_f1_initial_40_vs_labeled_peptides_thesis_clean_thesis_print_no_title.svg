@@ -1,0 +1,66 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="670" viewBox="0 0 1260 670" role="img" aria-label="Holdout F1 trajectories for all Phase 2 strategies, initial 40 labels">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<line x1="84" y1="586.0" x2="870" y2="586.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="590.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#111827">0.74</text>
+<line x1="84" y1="513.4" x2="870" y2="513.4" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="517.4" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#111827">0.76</text>
+<line x1="84" y1="440.9" x2="870" y2="440.9" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="444.9" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#111827">0.78</text>
+<line x1="84" y1="368.3" x2="870" y2="368.3" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="372.3" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#111827">0.80</text>
+<line x1="84" y1="295.7" x2="870" y2="295.7" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="299.7" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#111827">0.82</text>
+<line x1="84" y1="223.1" x2="870" y2="223.1" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="227.1" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#111827">0.84</text>
+<line x1="84" y1="150.6" x2="870" y2="150.6" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="154.6" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#111827">0.86</text>
+<line x1="84" y1="78.0" x2="870" y2="78.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="82.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#111827">0.88</text>
+<line x1="84.0" y1="78" x2="84.0" y2="586" stroke="#f3f4f6" stroke-width="1"/>
+<text x="84.0" y="608" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#111827">40</text>
+<line x1="241.2" y1="78" x2="241.2" y2="586" stroke="#f3f4f6" stroke-width="1"/>
+<text x="241.2" y="608" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#111827">60</text>
+<line x1="634.2" y1="78" x2="634.2" y2="586" stroke="#f3f4f6" stroke-width="1"/>
+<text x="634.2" y="608" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#111827">110</text>
+<line x1="1616.7" y1="78" x2="1616.7" y2="586" stroke="#f3f4f6" stroke-width="1"/>
+<text x="1616.7" y="608" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#111827">235</text>
+<line x1="84" y1="150.6" x2="870" y2="150.6" stroke="#111827" stroke-width="1" stroke-dasharray="5 5" opacity="0.38"/>
+<text x="866" y="143.6" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#111827">F1 = 0.86</text>
+<line x1="84" y1="586" x2="870" y2="586" stroke="#111827" stroke-width="1.2"/>
+<line x1="84" y1="78" x2="84" y2="586" stroke="#111827" stroke-width="1.2"/>
+<polyline points="84.0,408.2 123.3,368.8 162.6,359.6 201.9,275.3 241.2,304.2 280.5,341.7 319.8,370.0 359.1,332.6 398.4,355.6 437.7,379.3 477.0,385.2 516.3,259.9 555.6,282.7 594.9,292.7 634.2,265.5 673.5,227.0 712.8,479.1 752.1,424.3 791.4,229.0 830.7,318.3 870.0,254.8" fill="none" stroke="#4D4D4D" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6 5"/>
+<circle cx="870.0" cy="254.8" r="3.0" fill="#4D4D4D" opacity="0.92"/>
+<polyline points="84.0,408.2 123.3,371.2 162.6,405.8 201.9,338.7 241.2,379.6 280.5,393.3 319.8,386.2 359.1,393.1 398.4,356.6 437.7,382.1 477.0,323.4 516.3,308.8 555.6,335.3 594.9,325.5 634.2,334.7 673.5,266.7 712.8,294.3 752.1,270.8 791.4,349.6 830.7,339.4 870.0,279.2" fill="none" stroke="#0072B2" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="279.2" r="3.0" fill="#0072B2" opacity="0.92"/>
+<polyline points="84.0,408.2 123.3,399.8 162.6,313.2 201.9,359.8 241.2,346.0 280.5,332.6 319.8,352.6 359.1,338.6 398.4,319.6 437.7,273.1 477.0,365.9 516.3,345.2 555.6,272.9 594.9,310.6 634.2,343.6 673.5,308.5 712.8,231.1 752.1,242.8 791.4,235.1 830.7,299.3 870.0,342.8" fill="none" stroke="#E69F00" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="342.8" r="3.0" fill="#E69F00" opacity="0.92"/>
+<polyline points="84.0,408.2 123.3,379.3 162.6,364.6 201.9,317.6 241.2,332.2 280.5,265.5 319.8,264.8 359.1,224.3 398.4,215.9 437.7,195.6 477.0,254.1 516.3,181.6 555.6,248.5 594.9,218.4 634.2,210.8 673.5,223.1 712.8,262.6 752.1,271.4 791.4,285.3 830.7,281.9 870.0,281.6" fill="none" stroke="#009E73" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="281.6" r="3.0" fill="#009E73" opacity="0.92"/>
+<polyline points="84.0,408.2 123.3,356.6 162.6,336.3 201.9,298.5 241.2,275.9 280.5,319.0 319.8,295.1 359.1,289.2 398.4,254.9 437.7,267.1 477.0,253.1 516.3,268.9 555.6,277.1 594.9,232.9 634.2,275.1 673.5,208.8 712.8,260.1 752.1,245.0 791.4,221.8 830.7,195.3 870.0,280.3" fill="none" stroke="#CC79A7" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="280.3" r="3.0" fill="#CC79A7" opacity="0.92"/>
+<polyline points="84.0,408.2 123.3,399.0 162.6,311.9 201.9,318.2 241.2,368.7 280.5,384.7 319.8,320.4 359.1,364.5 398.4,344.2 437.7,305.1 477.0,306.5 516.3,265.5 555.6,266.1 594.9,319.7 634.2,291.9 673.5,278.0 712.8,339.6 752.1,252.0 791.4,213.8 830.7,260.5 870.0,249.9" fill="none" stroke="#56B4E9" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="249.9" r="3.0" fill="#56B4E9" opacity="0.92"/>
+<polyline points="84.0,408.2 123.3,317.8 162.6,304.6 201.9,249.2 241.2,433.2 280.5,425.1 319.8,279.2 359.1,230.4 398.4,243.1 437.7,211.5 477.0,267.5 516.3,224.0 555.6,224.0 594.9,265.2 634.2,283.3 673.5,203.7 712.8,220.0 752.1,199.6 791.4,200.7 830.7,165.2 870.0,222.4" fill="none" stroke="#D55E00" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="222.4" r="3.0" fill="#D55E00" opacity="0.92"/>
+<polyline points="84.0,408.2 123.3,404.3 162.6,380.1 201.9,382.1 241.2,302.0 280.5,284.4 319.8,275.2 359.1,252.4 398.4,226.8 437.7,232.8 477.0,262.6 516.3,220.7 555.6,238.5 594.9,251.9 634.2,389.1 673.5,227.6 712.8,294.4 752.1,220.8 791.4,245.2 830.7,208.8 870.0,250.6" fill="none" stroke="#B79F00" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="250.6" r="3.0" fill="#B79F00" opacity="0.92"/>
+<polyline points="84.0,408.2 123.3,426.6 162.6,370.4 201.9,274.6 241.2,279.7 280.5,372.4 319.8,335.2 359.1,309.8 398.4,303.9 437.7,264.2 477.0,275.4 516.3,276.5 555.6,272.2 594.9,246.9 634.2,302.5 673.5,295.0 712.8,171.2 752.1,244.8 791.4,271.6 830.7,317.1 870.0,274.3" fill="none" stroke="#332288" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="274.3" r="3.0" fill="#332288" opacity="0.92"/>
+<polyline points="84.0,408.2 123.3,317.6 162.6,332.7 201.9,310.0 241.2,272.4 280.5,261.2 319.8,296.1 359.1,267.0 398.4,314.3 437.7,354.1 477.0,326.8 516.3,321.5 555.6,339.1 594.9,326.9 634.2,342.9 673.5,376.0 712.8,264.9 752.1,309.3 791.4,301.2 830.7,217.5 870.0,228.8" fill="none" stroke="#882255" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="228.8" r="3.0" fill="#882255" opacity="0.92"/>
+<text x="904" y="86" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" fill="#111827">Acquisition function</text>
+<line x1="904" y1="108" x2="934" y2="108" stroke="#4D4D4D" stroke-width="3.4" stroke-dasharray="6 5"/><text x="946" y="112" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#111827">Random</text>
+<line x1="904" y1="130" x2="934" y2="130" stroke="#0072B2" stroke-width="3.4"/><text x="946" y="134" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#111827">Ensemble mean</text>
+<line x1="904" y1="152" x2="934" y2="152" stroke="#E69F00" stroke-width="3.4"/><text x="946" y="156" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#111827">Similarity-penalized mean</text>
+<line x1="904" y1="174" x2="934" y2="174" stroke="#009E73" stroke-width="3.4"/><text x="946" y="178" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#111827">Predictive entropy</text>
+<line x1="904" y1="196" x2="934" y2="196" stroke="#CC79A7" stroke-width="3.4"/><text x="946" y="200" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#111827">Ensemble MI</text>
+<line x1="904" y1="218" x2="934" y2="218" stroke="#56B4E9" stroke-width="3.4"/><text x="946" y="222" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#111827">UCB</text>
+<line x1="904" y1="240" x2="934" y2="240" stroke="#D55E00" stroke-width="3.4"/><text x="946" y="244" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#111827">Family QBC</text>
+<line x1="904" y1="262" x2="934" y2="262" stroke="#B79F00" stroke-width="3.4"/><text x="946" y="266" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#111827">Cluster-diverse representative</text>
+<line x1="904" y1="284" x2="934" y2="284" stroke="#332288" stroke-width="3.4"/><text x="946" y="288" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#111827">OED logdet</text>
+<line x1="904" y1="306" x2="934" y2="306" stroke="#882255" stroke-width="3.4"/><text x="946" y="310" font-family="Arial, Helvetica, sans-serif" font-size="14.5" fill="#111827">Hybrid MI-diverse</text>
+<text x="477.0" y="642" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#111827">Labelled peptides</text>
+<text x="32" y="332.0" transform="rotate(-90 32 332.0)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#111827">Holdout F1</text>
+</svg>
+
+

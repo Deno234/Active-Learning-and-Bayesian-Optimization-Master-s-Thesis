@@ -1,0 +1,34 @@
+
+integrator               = steep
+tinit                    = 0.0
+dt                       = 0.010
+nsteps                   = 50000
+emtol                   = 20
+
+nstlog                   = 10000
+nstenergy                = 10000
+
+cutoff-scheme            = Verlet
+nstlist                  = 1
+ns_type                  = grid
+pbc                      = xyz
+verlet-buffer-tolerance  = 0.005
+
+epsilon_r                = 15
+coulombtype              = reaction-field
+rcoulomb                 = 1.1
+vdw_type                 = cutoff
+vdw-modifier             = Potential-shift-verlet
+rvdw                     = 1.1
+
+;TEMP COUPLING
+tcoupl                   = no
+
+;PRESSURE COUPLING
+Pcoupl                   = no
+
+; GENERATE VELOCITIES FOR STARTUP RUN:
+gen_vel                  = yes
+gen_temp                 = 303
+gen_seed                 = 7353661706
+refcoord_scaling         = all

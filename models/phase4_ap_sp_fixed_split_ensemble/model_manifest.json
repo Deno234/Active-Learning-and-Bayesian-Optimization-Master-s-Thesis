@@ -1,0 +1,133 @@
+{
+  "status": "completed",
+  "immutable": true,
+  "completed_at": "2026-06-21T20:28:22+0200",
+  "architecture": "AP_SP",
+  "ensemble_size": 5,
+  "model_fitting_rows": 235,
+  "validation_calibration_rows": 59,
+  "positive_count": 159,
+  "negative_count": 76,
+  "epochs": 70,
+  "seeds": [
+    20260317,
+    20260318,
+    20260319,
+    20260320,
+    20260321
+  ],
+  "dataset_checksum": "e19cdfb11f1bf1216831a527660afe072606ac937d275ac4b3d8e8d457b3ff81",
+  "calibration": "<supek_repo>/thesis_results/04_bayesian_optimization/models/ap_sp_fixed_split_ensemble/member_calibrations.json",
+  "calibration_settings": {
+    "probability_clipping_epsilon": 1e-06,
+    "learning_rate": 0.05,
+    "maximum_iterations": 500,
+    "l2": 0.001,
+    "regularisation_target": {
+      "coefficient": 1.0,
+      "intercept": 0.0
+    },
+    "low_variation_epsilon": 1e-06
+  },
+  "validation_report": "<supek_repo>/thesis_results/04_bayesian_optimization/models/ap_sp_fixed_split_ensemble/validation_calibration_report.json",
+  "training_incumbent": "<supek_repo>/thesis_results/04_bayesian_optimization/models/ap_sp_fixed_split_ensemble/training_incumbent.json",
+  "phase3_generator_snapshot": {
+    "resolved_values": {
+      "batch_size": 5,
+      "candidate_pool_min": 50,
+      "ga_max_attempts": 100,
+      "use_similarity_penalty": true,
+      "use_length_penalty": true,
+      "allowed_amino_acids": "ACDEFGHIKLMNPQRSTVWY",
+      "preferred_length_min": 5,
+      "preferred_length_max": 10,
+      "min_initial_peptide_length": 3,
+      "max_initial_peptide_length": 24,
+      "population_size": 50,
+      "offspring_count": 30,
+      "max_num_generations": 30,
+      "tournament_size": 3,
+      "mutation_probability": 0.05
+    },
+    "source_configs": [
+      {
+        "path": "thesis_results/03_real_al/branches/cluster_diverse_representative/config.json",
+        "sha256": "fa0768527d0d0518830c5672f3ae209e7b6495a8b27354db6a818037cc763799"
+      },
+      {
+        "path": "thesis_results/03_real_al/branches/family_qbc/config.json",
+        "sha256": "5b56f717e194a6aec9aab8f1171bb6bfe69540e98e09412435ec0be5557c3873"
+      },
+      {
+        "path": "thesis_results/03_real_al/branches/predictive_entropy/config.json",
+        "sha256": "fb2606cc4f06b741c86a419345bdfef9781c4b057e283e5b57084d0bf9435597"
+      }
+    ],
+    "seed_rules": {
+      "base_random_seed": 20260317,
+      "proposal_seed_offset": "round_id * 100",
+      "attempt_seed": "base_random_seed + seed_offset + zero_based_attempt",
+      "sequence_seed": "sha256(strategy|ordered_sequences) prefix plus base seed modulo 2**32",
+      "selection_seed": "base_random_seed + round_id"
+    },
+    "implementation": {
+      "generator": {
+        "path": "<supek_repo>/active_learning_thesis/generative.py",
+        "sha256": "b76c290f198b8bf0c759c191fce3a328485e2a29fdb323c3ac19c25fa0b477d5"
+      },
+      "acquisition": {
+        "path": "<supek_repo>/active_learning_thesis/acquisition.py",
+        "sha256": "bb3c5ab65642b700d1725954956f5a020da6d05ac20de2d662356f3dc5959f08"
+      },
+      "configuration": {
+        "path": "<supek_repo>/active_learning_thesis/config.py",
+        "sha256": "6c5fb5352c5063544b72d9713a4c5bcbb26d105eb7c26298a554a088636f37e7"
+      },
+      "ga": {
+        "path": "<supek_repo>/SA_ML_generative/genetic_algorithm_library.py",
+        "sha256": "790ae38eed5f52c67e7fa1e6ceb00b3690ac6d644a579f9da88469a8012d9f7a"
+      }
+    }
+  },
+  "source_configuration": {
+    "architecture": {
+      "path": "thesis_results/01_reproduction/frozen_model_config.json",
+      "sha256": "2b49c5fb99aab5db0904be489b1623de83647e54d7b6f8ec5fb0f94a64cdcf08"
+    },
+    "architecture_implementation": {
+      "path": "<supek_repo>/SA_ML_predictive/code/models.py",
+      "sha256": "0ba2e26feb0f90cfd1bad7f9cd104a39ddc2f93ed00dd34878d62531257a042d"
+    },
+    "preprocessing": {
+      "path": "<supek_repo>/SA_ML_predictive/code/utils.py",
+      "sha256": "cea37152fc65a580368df80bea66303f9c59ef5af6ac091cbafdad4f6d03cd33"
+    },
+    "preprocessing_adapter": {
+      "path": "<supek_repo>/active_learning_thesis/predictive.py",
+      "sha256": "dc0cd2a4216ba4dc66bedf2a6dd698ba4832b4ab8406779ace4fffe3359753b0"
+    },
+    "optimizer": {
+      "path": "<supek_repo>/SA_ML_predictive/code/automate_training.py",
+      "sha256": "21f87c4252d638e04d7ab401aa897ec6cd8dac7b8931b205eb1f20549d4e363a"
+    },
+    "class_weighting": {
+      "path": "<supek_repo>/active_learning_thesis/predictive.py",
+      "sha256": "dc0cd2a4216ba4dc66bedf2a6dd698ba4832b4ab8406779ace4fffe3359753b0"
+    },
+    "training_implementation": {
+      "path": "<supek_repo>/active_learning_thesis/predictive.py",
+      "sha256": "dc0cd2a4216ba4dc66bedf2a6dd698ba4832b4ab8406779ace4fffe3359753b0"
+    },
+    "calibration_implementation": {
+      "path": "<supek_repo>/active_learning_thesis/predictive.py",
+      "sha256": "dc0cd2a4216ba4dc66bedf2a6dd698ba4832b4ab8406779ace4fffe3359753b0"
+    }
+  },
+  "member_checksums": {
+    "ap_sp_member_00.h5": "c7adde84ccd0bc4e86655f6403ffcc4ee68b9b04c527fa235f1b3c9ac95f3938",
+    "ap_sp_member_01.h5": "07dd264478bd25d03eb968ec96b956d2e3a49231b2639e8e5c743522c616b8da",
+    "ap_sp_member_02.h5": "5ada20091d27e7a517764670b59e6f206a6d9962f533272e78253fea39e9982e",
+    "ap_sp_member_03.h5": "aed7da649234dd19ab3186b3b9c530c790e74a2d3fc3b1fc33504d0c56c46478",
+    "ap_sp_member_04.h5": "eee5a438e772b8d95155361d7ce956da33142ad40b22900109ab07f8119965fc"
+  }
+}

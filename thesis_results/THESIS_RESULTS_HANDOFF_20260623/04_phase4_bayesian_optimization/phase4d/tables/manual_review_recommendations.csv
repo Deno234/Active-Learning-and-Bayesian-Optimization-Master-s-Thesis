@@ -1,0 +1,7 @@
+policy,recommended_simulation_batch,recommendation_reason
+random,manual_review,diversity--utility trade-off requires scientific review
+greedy,manual_review,diversity--utility trade-off requires scientific review
+ucb,manual_review,diversity--utility trade-off requires scientific review
+pi,manual_review,diversity--utility trade-off requires scientific review
+ei,manual_review,diversity--utility trade-off requires scientific review
+mes,manual_review,diversity--utility trade-off requires scientific review

@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="488" viewBox="0 0 1180 488">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="670.0" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#0f172a">Benchmark Validation AULC-F1, initial labels=40</text>
+<text x="670.0" y="54" text-anchor="middle" font-size="12" fill="#64748b">Dots show mean across 5 outer folds; whiskers and labels show SD. Higher is better unless stated otherwise.</text>
+<line x1="330.0" y1="74" x2="330.0" y2="418" stroke="#e5e7eb"/>
+<text x="330.0" y="436" text-anchor="middle" font-size="11" fill="#475569">0.832</text>
+<line x1="500.0" y1="74" x2="500.0" y2="418" stroke="#e5e7eb"/>
+<text x="500.0" y="436" text-anchor="middle" font-size="11" fill="#475569">0.855</text>
+<line x1="670.0" y1="74" x2="670.0" y2="418" stroke="#e5e7eb"/>
+<text x="670.0" y="436" text-anchor="middle" font-size="11" fill="#475569">0.878</text>
+<line x1="840.0" y1="74" x2="840.0" y2="418" stroke="#e5e7eb"/>
+<text x="840.0" y="436" text-anchor="middle" font-size="11" fill="#475569">0.901</text>
+<line x1="1010.0" y1="74" x2="1010.0" y2="418" stroke="#e5e7eb"/>
+<text x="1010.0" y="436" text-anchor="middle" font-size="11" fill="#475569">0.924</text>
+<line x1="330" y1="418" x2="1010" y2="418" stroke="#334155"/>
+<line x1="689.4" y1="74" x2="689.4" y2="418" stroke="#475569" stroke-width="1.3" stroke-dasharray="5 5"/>
+<text x="689.4" y="64" text-anchor="middle" font-size="11" fill="#475569">random</text>
+<text x="318" y="97" text-anchor="end" font-size="12" font-weight="600" fill="#334155">Predictive entropy</text>
+<line x1="330" y1="92" x2="1010" y2="92" stroke="#f1f5f9"/>
+<line x1="501.0" y1="92" x2="955.6" y2="92" stroke="#2563eb" stroke-width="2" opacity="0.45"/>
+<line x1="501.0" y1="88" x2="501.0" y2="96" stroke="#2563eb" stroke-width="1.5" opacity="0.45"/>
+<line x1="955.6" y1="88" x2="955.6" y2="96" stroke="#2563eb" stroke-width="1.5" opacity="0.45"/>
+<circle cx="728.3" cy="92" r="5.5" fill="#2563eb"/>
+<text x="740.3" y="83.0" font-size="12" fill="#0f172a">0.886</text>
+<text x="963.6" y="96" font-size="10.5" fill="#64748b">SD 0.031</text>
+<text x="318" y="133" text-anchor="end" font-size="12" font-weight="400" fill="#334155">Hybrid MI + diverse</text>
+<line x1="330" y1="128" x2="1010" y2="128" stroke="#f1f5f9"/>
+<line x1="497.3" y1="128" x2="916.8" y2="128" stroke="#ea580c" stroke-width="2" opacity="0.45"/>
+<line x1="497.3" y1="124" x2="497.3" y2="132" stroke="#ea580c" stroke-width="1.5" opacity="0.45"/>
+<line x1="916.8" y1="124" x2="916.8" y2="132" stroke="#ea580c" stroke-width="1.5" opacity="0.45"/>
+<circle cx="707.0" cy="128" r="5.5" fill="#ea580c"/>
+<text x="719.0" y="141.0" font-size="12" fill="#0f172a">0.883</text>
+<text x="924.8" y="132" font-size="10.5" fill="#64748b">SD 0.029</text>
+<text x="318" y="169" text-anchor="end" font-size="12" font-weight="400" fill="#334155">Ensemble MI</text>
+<line x1="330" y1="164" x2="1010" y2="164" stroke="#f1f5f9"/>
+<line x1="529.4" y1="164" x2="881.9" y2="164" stroke="#0891b2" stroke-width="2" opacity="0.45"/>
+<line x1="529.4" y1="160" x2="529.4" y2="168" stroke="#0891b2" stroke-width="1.5" opacity="0.45"/>
+<line x1="881.9" y1="160" x2="881.9" y2="168" stroke="#0891b2" stroke-width="1.5" opacity="0.45"/>
+<circle cx="705.7" cy="164" r="5.5" fill="#0891b2"/>
+<text x="717.7" y="155.0" font-size="12" fill="#0f172a">0.883</text>
+<text x="889.9" y="168" font-size="10.5" fill="#64748b">SD 0.024</text>
+<text x="318" y="205" text-anchor="end" font-size="12" font-weight="600" fill="#334155">Family QBC</text>
+<line x1="330" y1="200" x2="1010" y2="200" stroke="#f1f5f9"/>
+<line x1="514.3" y1="200" x2="883.7" y2="200" stroke="#7c3aed" stroke-width="2" opacity="0.45"/>
+<line x1="514.3" y1="196" x2="514.3" y2="204" stroke="#7c3aed" stroke-width="1.5" opacity="0.45"/>
+<line x1="883.7" y1="196" x2="883.7" y2="204" stroke="#7c3aed" stroke-width="1.5" opacity="0.45"/>
+<circle cx="699.0" cy="200" r="5.5" fill="#7c3aed"/>
+<text x="711.0" y="213.0" font-size="12" fill="#0f172a">0.882</text>
+<text x="891.7" y="204" font-size="10.5" fill="#64748b">SD 0.025</text>
+<text x="318" y="241" text-anchor="end" font-size="12" font-weight="600" fill="#334155">Random</text>
+<line x1="330" y1="236" x2="1010" y2="236" stroke="#f1f5f9"/>
+<line x1="475.8" y1="236" x2="903.1" y2="236" stroke="#475569" stroke-width="2" opacity="0.45"/>
+<line x1="475.8" y1="232" x2="475.8" y2="240" stroke="#475569" stroke-width="1.5" opacity="0.45"/>
+<line x1="903.1" y1="232" x2="903.1" y2="240" stroke="#475569" stroke-width="1.5" opacity="0.45"/>
+<circle cx="689.4" cy="236" r="5.5" fill="#475569"/>
+<text x="701.4" y="227.0" font-size="12" fill="#0f172a">0.881</text>
+<text x="911.1" y="240" font-size="10.5" fill="#64748b">SD 0.029</text>
+<text x="318" y="277" text-anchor="end" font-size="12" font-weight="600" fill="#334155">Cluster-diverse</text>
+<line x1="330" y1="272" x2="1010" y2="272" stroke="#f1f5f9"/>
+<line x1="471.7" y1="272" x2="879.4" y2="272" stroke="#16a34a" stroke-width="2" opacity="0.45"/>
+<line x1="471.7" y1="268" x2="471.7" y2="276" stroke="#16a34a" stroke-width="1.5" opacity="0.45"/>
+<line x1="879.4" y1="268" x2="879.4" y2="276" stroke="#16a34a" stroke-width="1.5" opacity="0.45"/>
+<circle cx="675.6" cy="272" r="5.5" fill="#16a34a"/>
+<text x="687.6" y="285.0" font-size="12" fill="#0f172a">0.879</text>
+<text x="887.4" y="276" font-size="10.5" fill="#64748b">SD 0.028</text>
+<text x="318" y="313" text-anchor="end" font-size="12" font-weight="400" fill="#334155">OED logdet</text>
+<line x1="330" y1="308" x2="1010" y2="308" stroke="#f1f5f9"/>
+<line x1="456.3" y1="308" x2="893.4" y2="308" stroke="#ca8a04" stroke-width="2" opacity="0.45"/>
+<line x1="456.3" y1="304" x2="456.3" y2="312" stroke="#ca8a04" stroke-width="1.5" opacity="0.45"/>
+<line x1="893.4" y1="304" x2="893.4" y2="312" stroke="#ca8a04" stroke-width="1.5" opacity="0.45"/>
+<circle cx="674.9" cy="308" r="5.5" fill="#ca8a04"/>
+<text x="686.9" y="299.0" font-size="12" fill="#0f172a">0.879</text>
+<text x="901.4" y="312" font-size="10.5" fill="#64748b">SD 0.030</text>
+<text x="318" y="349" text-anchor="end" font-size="12" font-weight="400" fill="#334155">UCB</text>
+<line x1="330" y1="344" x2="1010" y2="344" stroke="#f1f5f9"/>
+<line x1="424.8" y1="344" x2="829.0" y2="344" stroke="#0f766e" stroke-width="2" opacity="0.45"/>
+<line x1="424.8" y1="340" x2="424.8" y2="348" stroke="#0f766e" stroke-width="1.5" opacity="0.45"/>
+<line x1="829.0" y1="340" x2="829.0" y2="348" stroke="#0f766e" stroke-width="1.5" opacity="0.45"/>
+<circle cx="626.9" cy="344" r="5.5" fill="#0f766e"/>
+<text x="638.9" y="357.0" font-size="12" fill="#0f172a">0.872</text>
+<text x="837.0" y="348" font-size="10.5" fill="#64748b">SD 0.027</text>
+<text x="318" y="385" text-anchor="end" font-size="12" font-weight="400" fill="#334155">Similarity-penalized mean</text>
+<line x1="330" y1="380" x2="1010" y2="380" stroke="#f1f5f9"/>
+<line x1="408.4" y1="380" x2="832.2" y2="380" stroke="#be123c" stroke-width="2" opacity="0.45"/>
+<line x1="408.4" y1="376" x2="408.4" y2="384" stroke="#be123c" stroke-width="1.5" opacity="0.45"/>
+<line x1="832.2" y1="376" x2="832.2" y2="384" stroke="#be123c" stroke-width="1.5" opacity="0.45"/>
+<circle cx="620.3" cy="380" r="5.5" fill="#be123c"/>
+<text x="632.3" y="371.0" font-size="12" fill="#0f172a">0.871</text>
+<text x="840.2" y="384" font-size="10.5" fill="#64748b">SD 0.029</text>
+<text x="318" y="421" text-anchor="end" font-size="12" font-weight="400" fill="#334155">Mean</text>
+<line x1="330" y1="416" x2="1010" y2="416" stroke="#f1f5f9"/>
+<line x1="410.5" y1="416" x2="787.0" y2="416" stroke="#64748b" stroke-width="2" opacity="0.45"/>
+<line x1="410.5" y1="412" x2="410.5" y2="420" stroke="#64748b" stroke-width="1.5" opacity="0.45"/>
+<line x1="787.0" y1="412" x2="787.0" y2="420" stroke="#64748b" stroke-width="1.5" opacity="0.45"/>
+<circle cx="598.8" cy="416" r="5.5" fill="#64748b"/>
+<text x="610.8" y="429.0" font-size="12" fill="#0f172a">0.868</text>
+<text x="795.0" y="420" font-size="10.5" fill="#64748b">SD 0.026</text>
+<text x="670.0" y="472" text-anchor="middle" font-size="13" fill="#334155">AULC-F1</text>
+</svg>

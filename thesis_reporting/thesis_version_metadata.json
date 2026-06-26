@@ -1,0 +1,20 @@
+{
+  "thesis_source_reviewed": "C:\\Users\\Deno\\Documents\\promjene\\main.tex",
+  "thesis_source_sha256": "5db6eb2e9988db7cf04c360c96b4ba312de5247e92112c4b813c2a120213d70b",
+  "thesis_source_last_modified": "2026-06-23T17:28:44.133756+02:00",
+  "compiled_pdf_reviewed": "C:\\Users\\Deno\\Documents\\promjene\\Denis_Ibiši_Master_s_thesis.pdf",
+  "compiled_pdf_sha256": "9b6825abe591d482d4a2a1304812ce77acd46b302f43512c772c0d9ab69e3402",
+  "compiled_pdf_last_modified": "2026-06-23T17:31:07.045321+02:00",
+  "compiled_pdf_pages": 27,
+  "bibliography_reviewed": "C:\\Users\\Deno\\Documents\\promjene\\references_rsc.bib",
+  "bibliography_sha256": "c351f42b04bfd7e1a43a3a3110937a65ea52e599bab5525fe4cdc0c5bf2b69f5",
+  "repository_branch": "codex/active-learning-thesis",
+  "repository_commit_sha": "7cbfa95d8d56ce4b558238341ed5e19354ffcec2",
+  "working_tree_state": "dirty_and_contains_unresolved_conflicts",
+  "documentation_update_date": "2026-06-23T18:05:49+02:00",
+  "research_questions": [
+    "Which acquisition objectives improve retrospective label efficiency relative to random selection?",
+    "How do complementary acquisition strategies behave when new computational labels are obtained through isolated CG-MD feedback loops?",
+    "How do fixed-surrogate candidate optimisation and progressively relaxed familiarity restrictions affect proposal quality, candidate diversity, and retrospective learning efficiency?"
+  ]
+}

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="450" viewBox="0 0 1100 450" role="img" aria-label="Mean labels required to reach holdout F1 0.84">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="250" y="30" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#111827">Labels needed to reach holdout F1 &gt;= 0.84</text>
+<text x="250" y="52" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4b5563">Benchmark replay, ensemble-calibrated setup. Bars show mean labelled peptides across five overlapping outer folds.</text>
+<rect x="250" y="66" width="12" height="9" fill="#2563eb" opacity="0.82"/><text x="268" y="75" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">n0 = 10</text>
+<rect x="342" y="66" width="12" height="9" fill="#f59e0b" opacity="0.82"/><text x="360" y="75" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">n0 = 40</text>
+<text x="454" y="75" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#6b7280">Lower is better. Labels include the initial labelled set.</text>
+<line x1="250.0" y1="90" x2="250.0" y2="402" stroke="#e5e7eb" stroke-width="1"/>
+<text x="250.0" y="422" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">0</text>
+<line x1="391.5" y1="90" x2="391.5" y2="402" stroke="#e5e7eb" stroke-width="1"/>
+<text x="391.5" y="422" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">20</text>
+<line x1="532.9" y1="90" x2="532.9" y2="402" stroke="#e5e7eb" stroke-width="1"/>
+<text x="532.9" y="422" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">40</text>
+<line x1="674.4" y1="90" x2="674.4" y2="402" stroke="#e5e7eb" stroke-width="1"/>
+<text x="674.4" y="422" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">60</text>
+<line x1="815.8" y1="90" x2="815.8" y2="402" stroke="#e5e7eb" stroke-width="1"/>
+<text x="815.8" y="422" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">80</text>
+<line x1="957.3" y1="90" x2="957.3" y2="402" stroke="#e5e7eb" stroke-width="1"/>
+<text x="957.3" y="422" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">100</text>
+<line x1="250" y1="402" x2="1028" y2="402" stroke="#111827" stroke-width="1"/>
+<text x="238" y="110" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#374151">Random</text>
+<rect x="250" y="91" width="778" height="31" fill="#f9fafb" opacity="0.7"/>
+<rect x="250" y="99" width="438.5" height="10" fill="#2563eb" opacity="0.82"/>
+<text x="693.5" y="108" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">62.0 (5/5)</text>
+<rect x="250" y="111" width="721.4" height="10" fill="#f59e0b" opacity="0.82"/>
+<text x="976.4" y="120" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">102.0 (5/5)</text>
+<text x="238" y="141" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#374151">Ensemble mean</text>
+<rect x="250" y="130" width="282.9" height="10" fill="#2563eb" opacity="0.82"/>
+<text x="537.9" y="139" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">40.0 (3/5)</text>
+<rect x="250" y="142" width="654.2" height="10" fill="#f59e0b" opacity="0.82"/>
+<text x="909.2" y="151" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">92.5 (2/5)</text>
+<text x="238" y="172" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#374151">Similarity-penalized mean</text>
+<rect x="250" y="153" width="778" height="31" fill="#f9fafb" opacity="0.7"/>
+<rect x="250" y="161" width="377.2" height="10" fill="#2563eb" opacity="0.82"/>
+<text x="632.2" y="170" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">53.3 (3/5)</text>
+<rect x="250" y="173" width="447.9" height="10" fill="#f59e0b" opacity="0.82"/>
+<text x="702.9" y="182" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">63.3 (3/5)</text>
+<text x="238" y="203" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#374151">Predictive entropy</text>
+<rect x="250" y="192" width="247.5" height="10" fill="#2563eb" opacity="0.82"/>
+<text x="502.5" y="201" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">35.0 (5/5)</text>
+<rect x="250" y="204" width="509.2" height="10" fill="#f59e0b" opacity="0.82"/>
+<text x="764.2" y="213" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">72.0 (5/5)</text>
+<text x="238" y="234" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#374151">Ensemble MI</text>
+<rect x="250" y="215" width="778" height="31" fill="#f9fafb" opacity="0.7"/>
+<rect x="250" y="223" width="362.5" height="10" fill="#2563eb" opacity="0.82"/>
+<text x="617.5" y="232" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">51.2 (4/5)</text>
+<rect x="250" y="235" width="565.8" height="10" fill="#f59e0b" opacity="0.82"/>
+<text x="820.8" y="244" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">80.0 (5/5)</text>
+<text x="238" y="265" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#374151">UCB</text>
+<rect x="250" y="254" width="353.6" height="10" fill="#2563eb" opacity="0.82"/>
+<text x="608.6" y="263" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">50.0 (3/5)</text>
+<rect x="250" y="266" width="636.5" height="10" fill="#f59e0b" opacity="0.82"/>
+<text x="891.5" y="275" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">90.0 (3/5)</text>
+<text x="238" y="296" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#374151">Family QBC</text>
+<rect x="250" y="277" width="778" height="31" fill="#f9fafb" opacity="0.7"/>
+<rect x="250" y="285" width="397.8" height="10" fill="#2563eb" opacity="0.82"/>
+<text x="652.8" y="294" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">56.2 (4/5)</text>
+<rect x="250" y="297" width="438.5" height="10" fill="#f59e0b" opacity="0.82"/>
+<text x="693.5" y="306" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">62.0 (5/5)</text>
+<text x="238" y="327" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#374151">Cluster-diverse rep.</text>
+<rect x="250" y="316" width="442.0" height="10" fill="#2563eb" opacity="0.82"/>
+<text x="697.0" y="325" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">62.5 (4/5)</text>
+<rect x="250" y="328" width="572.9" height="10" fill="#f59e0b" opacity="0.82"/>
+<text x="827.9" y="337" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">81.0 (5/5)</text>
+<text x="238" y="358" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#374151">OED logdet</text>
+<rect x="250" y="339" width="778" height="31" fill="#f9fafb" opacity="0.7"/>
+<rect x="250" y="347" width="377.2" height="10" fill="#2563eb" opacity="0.82"/>
+<text x="632.2" y="356" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">53.3 (3/5)</text>
+<rect x="250" y="359" width="542.2" height="10" fill="#f59e0b" opacity="0.82"/>
+<text x="797.2" y="368" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">76.7 (3/5)</text>
+<text x="238" y="389" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11.5" font-weight="400" fill="#374151">Hybrid MI-diverse</text>
+<rect x="250" y="378" width="346.6" height="10" fill="#2563eb" opacity="0.82"/>
+<text x="601.6" y="387" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">49.0 (5/5)</text>
+<rect x="250" y="390" width="583.5" height="10" fill="#f59e0b" opacity="0.82"/>
+<text x="838.5" y="399" font-family="Arial, Helvetica, sans-serif" font-size="10.5" fill="#374151">82.5 (4/5)</text>
+<text x="639.0" y="438" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#111827">Mean labelled peptides needed to first reach F1 &gt;= 0.84</text>
+</svg>

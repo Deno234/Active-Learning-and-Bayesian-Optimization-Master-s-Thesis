@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="482" viewBox="0 0 1000 482">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="500.0" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#0f172a">Ablation Holdout Final F1, initial labels=10</text>
+<text x="310" y="74" text-anchor="end" font-size="12" fill="#334155">ensemble raw / Predictive entropy</text>
+<rect x="320" y="58" width="630.0" height="18" rx="3" fill="#2563eb" opacity="0.82"/>
+<text x="956.0" y="72" font-size="12" fill="#334155">0.844</text>
+<text x="310" y="102" text-anchor="end" font-size="12" fill="#334155">single calibrated / Random</text>
+<rect x="320" y="86" width="629.7" height="18" rx="3" fill="#16a34a" opacity="0.82"/>
+<text x="955.7" y="100" font-size="12" fill="#334155">0.843</text>
+<text x="310" y="130" text-anchor="end" font-size="12" fill="#334155">single raw / Random</text>
+<rect x="320" y="114" width="629.7" height="18" rx="3" fill="#dc2626" opacity="0.82"/>
+<text x="955.7" y="128" font-size="12" fill="#334155">0.843</text>
+<text x="310" y="158" text-anchor="end" font-size="12" fill="#334155">Similarity-penalized mean</text>
+<rect x="320" y="142" width="627.3" height="18" rx="3" fill="#9333ea" opacity="0.82"/>
+<text x="953.3" y="156" font-size="12" fill="#334155">0.840</text>
+<text x="310" y="186" text-anchor="end" font-size="12" fill="#334155">Cluster-diverse</text>
+<rect x="320" y="170" width="625.7" height="18" rx="3" fill="#ea580c" opacity="0.82"/>
+<text x="951.7" y="184" font-size="12" fill="#334155">0.838</text>
+<text x="310" y="214" text-anchor="end" font-size="12" fill="#334155">single raw / Predictive entropy</text>
+<rect x="320" y="198" width="623.5" height="18" rx="3" fill="#0891b2" opacity="0.82"/>
+<text x="949.5" y="212" font-size="12" fill="#334155">0.835</text>
+<text x="310" y="242" text-anchor="end" font-size="12" fill="#334155">Predictive entropy</text>
+<rect x="320" y="226" width="622.6" height="18" rx="3" fill="#4f46e5" opacity="0.82"/>
+<text x="948.6" y="240" font-size="12" fill="#334155">0.834</text>
+<text x="310" y="270" text-anchor="end" font-size="12" fill="#334155">single calibrated / Similarity-penalized mean</text>
+<rect x="320" y="254" width="621.4" height="18" rx="3" fill="#65a30d" opacity="0.82"/>
+<text x="947.4" y="268" font-size="12" fill="#334155">0.832</text>
+<text x="310" y="298" text-anchor="end" font-size="12" fill="#334155">single raw / OED logdet</text>
+<rect x="320" y="282" width="620.0" height="18" rx="3" fill="#be123c" opacity="0.82"/>
+<text x="946.0" y="296" font-size="12" fill="#334155">0.830</text>
+<text x="310" y="326" text-anchor="end" font-size="12" fill="#334155">ensemble raw / OED logdet</text>
+<rect x="320" y="310" width="616.9" height="18" rx="3" fill="#0f766e" opacity="0.82"/>
+<text x="942.9" y="324" font-size="12" fill="#334155">0.826</text>
+<text x="310" y="354" text-anchor="end" font-size="12" fill="#334155">single calibrated / Predictive entropy</text>
+<rect x="320" y="338" width="616.5" height="18" rx="3" fill="#7c3aed" opacity="0.82"/>
+<text x="942.5" y="352" font-size="12" fill="#334155">0.826</text>
+<text x="310" y="382" text-anchor="end" font-size="12" fill="#334155">ensemble raw / Similarity-penalized mean</text>
+<rect x="320" y="366" width="614.6" height="18" rx="3" fill="#ca8a04" opacity="0.82"/>
+<text x="940.6" y="380" font-size="12" fill="#334155">0.823</text>
+<text x="310" y="410" text-anchor="end" font-size="12" fill="#334155">Random</text>
+<rect x="320" y="394" width="613.9" height="18" rx="3" fill="#2563eb" opacity="0.82"/>
+<text x="939.9" y="408" font-size="12" fill="#334155">0.822</text>
+<text x="310" y="438" text-anchor="end" font-size="12" fill="#334155">OED logdet</text>
+<rect x="320" y="422" width="612.4" height="18" rx="3" fill="#16a34a" opacity="0.82"/>
+<text x="938.4" y="436" font-size="12" fill="#334155">0.820</text>
+</svg>

@@ -1,0 +1,22 @@
+* text=auto
+.gitattributes text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.sh text eol=lf
+*.pbs text eol=lf
+*.mdp text eol=lf
+*.itp text eol=lf
+*.top text eol=lf
+*.tex text eol=lf
+*.svg text eol=lf
+*.npy binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.h5 filter=lfs diff=lfs merge=lfs -text

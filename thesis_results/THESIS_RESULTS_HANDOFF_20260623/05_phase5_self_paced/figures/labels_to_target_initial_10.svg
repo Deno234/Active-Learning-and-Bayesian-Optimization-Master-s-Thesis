@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+<rect width="980" height="560" fill="#ffffff"/>
+<text x="490.0" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0f172a">Phase 5 labels required to reach F1 targets</text>
+<text x="490.0" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">Conditional mean among folds reaching each target; reach fractions remain in the source table.</text>
+<line x1="90" y1="440.0" x2="920" y2="440.0" stroke="#e2e8f0"/>
+<text x="80" y="444.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">0.00</text>
+<line x1="90" y1="369.0" x2="920" y2="369.0" stroke="#e2e8f0"/>
+<text x="80" y="373.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">26.00</text>
+<line x1="90" y1="298.0" x2="920" y2="298.0" stroke="#e2e8f0"/>
+<text x="80" y="302.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">52.00</text>
+<line x1="90" y1="227.0" x2="920" y2="227.0" stroke="#e2e8f0"/>
+<text x="80" y="231.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">78.00</text>
+<line x1="90" y1="156.0" x2="920" y2="156.0" stroke="#e2e8f0"/>
+<text x="80" y="160.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">104.00</text>
+<line x1="90" y1="85.0" x2="920" y2="85.0" stroke="#e2e8f0"/>
+<text x="80" y="89.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">130.00</text>
+<rect x="112.8" y="376.3" width="51.3" height="63.7" fill="#2563eb" rx="2"/>
+<text x="138.5" y="370.3" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">23.333</text>
+<rect x="168.1" y="244.3" width="51.3" height="195.7" fill="#d97706" rx="2"/>
+<text x="193.8" y="238.3" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">71.667</text>
+<rect x="223.4" y="132.8" width="51.3" height="307.2" fill="#0f766e" rx="2"/>
+<text x="249.0" y="126.8" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">112.500</text>
+<text x="193.8" y="460" transform="rotate(28 193.8 460)" text-anchor="start" font-family="Arial" font-size="11" fill="#334155">random</text>
+<rect x="320.3" y="349.0" width="51.3" height="91.0" fill="#2563eb" rx="2"/>
+<text x="346.0" y="343.0" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">33.333</text>
+<rect x="375.6" y="285.3" width="51.3" height="154.7" fill="#d97706" rx="2"/>
+<text x="401.2" y="279.3" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">56.667</text>
+<rect x="430.9" y="153.3" width="51.3" height="286.7" fill="#0f766e" rx="2"/>
+<text x="456.5" y="147.3" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">105.000</text>
+<text x="401.2" y="460" transform="rotate(28 401.2 460)" text-anchor="start" font-family="Arial" font-size="11" fill="#334155">predictive entropy</text>
+<rect x="527.8" y="294.4" width="51.3" height="145.6" fill="#2563eb" rx="2"/>
+<text x="553.5" y="288.4" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">53.333</text>
+<rect x="583.1" y="235.2" width="51.3" height="204.8" fill="#d97706" rx="2"/>
+<text x="608.8" y="229.2" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">75.000</text>
+<rect x="638.4" y="160.1" width="51.3" height="279.9" fill="#0f766e" rx="2"/>
+<text x="664.0" y="154.1" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">102.500</text>
+<text x="608.8" y="460" transform="rotate(28 608.8 460)" text-anchor="start" font-family="Arial" font-size="11" fill="#334155">static easy entropy</text>
+<rect x="735.3" y="335.3" width="51.3" height="104.7" fill="#2563eb" rx="2"/>
+<text x="761.0" y="329.3" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">38.333</text>
+<rect x="790.6" y="244.3" width="51.3" height="195.7" fill="#d97706" rx="2"/>
+<text x="816.2" y="238.3" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">71.667</text>
+<rect x="845.9" y="244.3" width="51.3" height="195.7" fill="#0f766e" rx="2"/>
+<text x="871.5" y="238.3" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">71.667</text>
+<text x="816.2" y="460" transform="rotate(28 816.2 460)" text-anchor="start" font-family="Arial" font-size="11" fill="#334155">self paced entropy</text>
+<text x="22" y="262.5" transform="rotate(-90 22 262.5)" text-anchor="middle" font-family="Arial" font-size="13" fill="#334155">Labelled count</text>
+<rect x="90" y="528" width="14" height="10" fill="#2563eb"/>
+<text x="110" y="537" font-family="Arial" font-size="11" fill="#334155">F1 0.80</text>
+<rect x="270" y="528" width="14" height="10" fill="#d97706"/>
+<text x="290" y="537" font-family="Arial" font-size="11" fill="#334155">F1 0.84</text>
+<rect x="450" y="528" width="14" height="10" fill="#0f766e"/>
+<text x="470" y="537" font-family="Arial" font-size="11" fill="#334155">F1 0.86</text>
+</svg>

@@ -1,0 +1,4 @@
+branch,acquired_labels,positive_labels,positive_rate
+predictive_entropy,40,19,0.475
+family_qbc,40,21,0.525
+cluster_diverse_representative,40,19,0.475

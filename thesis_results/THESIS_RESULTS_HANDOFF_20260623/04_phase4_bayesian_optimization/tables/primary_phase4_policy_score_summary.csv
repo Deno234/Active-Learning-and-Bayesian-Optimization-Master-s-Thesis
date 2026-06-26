@@ -1,0 +1,7 @@
+policy,status,selected_count,mean_final_acquisition_utility
+random,completed,5,
+greedy,completed,5,0.9763799646730942
+ucb,completed,5,0.9907470608654633
+pi,completed,5,0.9022604552301365
+ei,completed,5,0.002718396355490307
+mes,completed,5,0.6644242113853591

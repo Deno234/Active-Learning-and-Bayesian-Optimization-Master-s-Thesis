@@ -1,0 +1,50 @@
+{
+  "outer_fold": 1,
+  "initial_label_count": 10,
+  "strategy": "self_paced_entropy",
+  "replay_point": 0,
+  "acquisition_step": 0,
+  "member_seeds": [
+    20370317
+  ],
+  "primary_single_model": true,
+  "selection_seed": 20261427,
+  "ordered_training_row_ids": [
+    48,
+    58,
+    101,
+    151,
+    209,
+    214,
+    276,
+    292,
+    303,
+    340
+  ],
+  "ordered_training_row_ids_checksum_sha256": "db971fe36b1981fc1f2988e8bd9d3041bb1abb2f2e53846cb73871984810cecb",
+  "deterministic_settings": {
+    "tf_deterministic_ops_environment": "1",
+    "tf_cudnn_deterministic_environment": "1",
+    "tensorflow_enable_op_determinism_called": true,
+    "fallback_reason": ""
+  },
+  "labelled_reference_count": 10,
+  "candidate_count": 225,
+  "members": [
+    {
+      "member_index": 0,
+      "member_seed": 20370317,
+      "model_name": "AP_SP",
+      "model_path": "<supek_repo>/thesis_results/05_self_paced_active_learning/replay/outer_1/initial_10/self_paced_entropy/models/replay_point_000/ensemble/ap_sp_member_00.h5",
+      "model_checksum_sha256": "b08a067536416f3ae671d283e44b6d2fa8c22c2d225aac9a1598a45c54ffc92b",
+      "embedding_layer_name": "concatenate",
+      "embedding_layer_class": "Concatenate",
+      "runtime_shape": [
+        235,
+        384
+      ],
+      "embedding_width": 384,
+      "embedding_extractor_checksum_sha256": "a11984af5ba4caf46a8121ba135170570bf46b8668219121c9f90488962582a1"
+    }
+  ]
+}

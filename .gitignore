@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and scheduler output
+*.log
+*.out
+*.err
+supek_logs/
+*_remote_state/
+
+# Large model/checkpoint artefacts
+*.h5
+*.keras
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.ckpt
+models/
+model/
+checkpoints/
+
+# Curated model artefacts intentionally included in this thesis release.
+!models/
+!models/phase3_round001_pre_proposal/
+!models/phase3_round001_pre_proposal/**
+!models/phase4_ap_sp_fixed_split_ensemble/
+!models/phase4_ap_sp_fixed_split_ensemble/**
+!models/phase5_initial_replay_point_000/
+!models/phase5_initial_replay_point_000/**
+
+# Molecular dynamics heavy binaries
+*.xtc
+*.trr
+*.tpr
+*.edr
+*.cpt
+*.gro#
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+
+# Temporary release products
+RELEASE_AUDIT_REPORT.md

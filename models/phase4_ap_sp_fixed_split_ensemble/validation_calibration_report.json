@@ -1,0 +1,31 @@
+{
+  "partition": "fixed_validation_calibration",
+  "row_count": 59,
+  "decision_threshold": 0.47798515124382135,
+  "threshold_selection_f1": 0.8780487804878048,
+  "threshold_tie_break": "higher_threshold",
+  "metrics": {
+    "accuracy": 0.8305084745762712,
+    "precision": 0.8571428571428571,
+    "recall": 0.9,
+    "f1": 0.8780487804878048,
+    "balanced_accuracy": 0.7921052631578948,
+    "gmean": 0.7847225456708954,
+    "roc_auc": 0.8618421052631579,
+    "pr_auc": 0.9075292032065067,
+    "brier_score": 0.13974151327949316,
+    "log_loss": 0.44379802544058555,
+    "ece_10": 0.08884244434242299,
+    "mce_10": 0.26760315545380964,
+    "decision_threshold": 0.47798515124382135,
+    "threshold_strategy": "pr_best_f1",
+    "threshold_selection_f1": 0.8780487804878048,
+    "threshold_source": "fixed_validation_calibration",
+    "accuracy_fixed_0_5": 0.8135593220338984,
+    "precision_fixed_0_5": 0.8717948717948718,
+    "recall_fixed_0_5": 0.85,
+    "f1_fixed_0_5": 0.8607594936708861,
+    "balanced_accuracy_fixed_0_5": 0.7934210526315789,
+    "gmean_fixed_0_5": 0.7914011558455574
+  }
+}

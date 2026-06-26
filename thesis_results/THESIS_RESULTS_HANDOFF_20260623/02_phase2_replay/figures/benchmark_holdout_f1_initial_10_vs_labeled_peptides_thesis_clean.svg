@@ -1,0 +1,66 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="1260" height="670" viewBox="0 0 1260 670" role="img" aria-label="Holdout F1 trajectories for all Phase 2 strategies, initial 10 labels">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="84" y="32" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" fill="#111827">Holdout F1 during retrospective replay (n0 = 10)</text>
+<text x="84" y="56" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#4b5563">Mean across five overlapping outer folds; all benchmark acquisition strategies are shown for appendix comparison.</text>
+<line x1="84" y1="586.0" x2="870" y2="586.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="590.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">0.74</text>
+<line x1="84" y1="513.4" x2="870" y2="513.4" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="517.4" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">0.76</text>
+<line x1="84" y1="440.9" x2="870" y2="440.9" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="444.9" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">0.78</text>
+<line x1="84" y1="368.3" x2="870" y2="368.3" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="372.3" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">0.80</text>
+<line x1="84" y1="295.7" x2="870" y2="295.7" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="299.7" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">0.82</text>
+<line x1="84" y1="223.1" x2="870" y2="223.1" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="227.1" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">0.84</text>
+<line x1="84" y1="150.6" x2="870" y2="150.6" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="154.6" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">0.86</text>
+<line x1="84" y1="78.0" x2="870" y2="78.0" stroke="#e5e7eb" stroke-width="1"/>
+<text x="74" y="82.0" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">0.88</text>
+<line x1="84.0" y1="78" x2="84.0" y2="586" stroke="#f3f4f6" stroke-width="1"/>
+<text x="84.0" y="608" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">10</text>
+<line x1="477.0" y1="78" x2="477.0" y2="586" stroke="#f3f4f6" stroke-width="1"/>
+<text x="477.0" y="608" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">60</text>
+<line x1="870.0" y1="78" x2="870.0" y2="586" stroke="#f3f4f6" stroke-width="1"/>
+<text x="870.0" y="608" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">110</text>
+<line x1="1852.5" y1="78" x2="1852.5" y2="586" stroke="#f3f4f6" stroke-width="1"/>
+<text x="1852.5" y="608" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">235</text>
+<line x1="84" y1="150.6" x2="870" y2="150.6" stroke="#111827" stroke-width="1" stroke-dasharray="5 5" opacity="0.38"/>
+<text x="866" y="143.6" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#374151">F1 = 0.86</text>
+<line x1="84" y1="586" x2="870" y2="586" stroke="#111827" stroke-width="1.2"/>
+<line x1="84" y1="78" x2="84" y2="586" stroke="#111827" stroke-width="1.2"/>
+<polyline points="84.0,426.8 123.3,505.9 162.6,388.0 201.9,461.7 241.2,442.1 280.5,427.1 319.8,406.0 359.1,411.0 398.4,340.3 437.7,281.9 477.0,422.2 516.3,284.4 555.6,287.8 594.9,336.0 634.2,287.4 673.5,299.7 712.8,224.4 752.1,271.2 791.4,199.9 830.7,267.1 870.0,287.6" fill="none" stroke="#4D4D4D" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6 5"/>
+<circle cx="870.0" cy="287.6" r="3.0" fill="#4D4D4D" opacity="0.92"/>
+<polyline points="84.0,426.8 123.3,488.6 162.6,473.0 201.9,412.8 241.2,356.1 280.5,362.9 319.8,382.5 359.1,372.5 398.4,331.8 437.7,419.9 477.0,391.3 516.3,384.1 555.6,386.4 594.9,329.6 634.2,362.2 673.5,384.5 712.8,384.6 752.1,355.2 791.4,373.4 830.7,428.7 870.0,278.1" fill="none" stroke="#0072B2" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="278.1" r="3.0" fill="#0072B2" opacity="0.92"/>
+<polyline points="84.0,426.8 123.3,433.9 162.6,466.1 201.9,428.7 241.2,440.3 280.5,403.9 319.8,337.2 359.1,346.6 398.4,320.2 437.7,362.0 477.0,465.3 516.3,390.8 555.6,349.5 594.9,297.3 634.2,308.7 673.5,280.8 712.8,383.2 752.1,361.5 791.4,305.3 830.7,339.4 870.0,258.3" fill="none" stroke="#E69F00" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="258.3" r="3.0" fill="#E69F00" opacity="0.92"/>
+<polyline points="84.0,426.8 123.3,423.1 162.6,419.5 201.9,359.6 241.2,323.9 280.5,282.8 319.8,329.1 359.1,208.7 398.4,218.8 437.7,318.9 477.0,282.8 516.3,247.7 555.6,199.4 594.9,258.2 634.2,235.5 673.5,147.6 712.8,209.3 752.1,166.5 791.4,217.4 830.7,145.6 870.0,200.3" fill="none" stroke="#009E73" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="200.3" r="3.0" fill="#009E73" opacity="0.92"/>
+<polyline points="84.0,426.8 123.3,377.8 162.6,296.5 201.9,373.8 241.2,334.3 280.5,282.1 319.8,324.5 359.1,371.5 398.4,261.5 437.7,395.8 477.0,344.5 516.3,338.8 555.6,281.0 594.9,275.7 634.2,313.0 673.5,309.6 712.8,255.4 752.1,255.0 791.4,297.4 830.7,293.6 870.0,236.9" fill="none" stroke="#CC79A7" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="236.9" r="3.0" fill="#CC79A7" opacity="0.92"/>
+<polyline points="84.0,426.8 123.3,402.8 162.6,388.3 201.9,346.0 241.2,358.4 280.5,354.2 319.8,344.0 359.1,328.6 398.4,364.2 437.7,354.0 477.0,365.7 516.3,348.3 555.6,450.1 594.9,330.6 634.2,429.8 673.5,309.9 712.8,377.6 752.1,331.3 791.4,393.2 830.7,379.7 870.0,377.2" fill="none" stroke="#56B4E9" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="377.2" r="3.0" fill="#56B4E9" opacity="0.92"/>
+<polyline points="84.0,426.8 123.3,501.6 162.6,449.1 201.9,391.5 241.2,352.4 280.5,510.9 319.8,395.7 359.1,313.6 398.4,336.5 437.7,332.5 477.0,303.8 516.3,254.8 555.6,276.0 594.9,245.8 634.2,314.7 673.5,271.9 712.8,322.4 752.1,251.8 791.4,247.4 830.7,228.6 870.0,184.7" fill="none" stroke="#D55E00" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="184.7" r="3.0" fill="#D55E00" opacity="0.92"/>
+<polyline points="84.0,426.8 123.3,380.7 162.6,431.1 201.9,351.7 241.2,397.5 280.5,496.5 319.8,410.3 359.1,439.8 398.4,349.7 437.7,304.1 477.0,359.9 516.3,399.3 555.6,321.1 594.9,280.1 634.2,281.9 673.5,344.4 712.8,308.1 752.1,319.9 791.4,237.3 830.7,232.8 870.0,171.3" fill="none" stroke="#B79F00" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="171.3" r="3.0" fill="#B79F00" opacity="0.92"/>
+<polyline points="84.0,426.8 123.3,343.8 162.6,421.2 201.9,382.6 241.2,351.0 280.5,323.0 319.8,353.4 359.1,351.8 398.4,345.6 437.7,340.0 477.0,403.0 516.3,490.7 555.6,479.0 594.9,330.0 634.2,318.5 673.5,277.6 712.8,369.0 752.1,253.1 791.4,260.0 830.7,277.9 870.0,234.5" fill="none" stroke="#332288" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="234.5" r="3.0" fill="#332288" opacity="0.92"/>
+<polyline points="84.0,426.8 123.3,301.7 162.6,318.1 201.9,337.3 241.2,307.0 280.5,384.8 319.8,376.3 359.1,293.6 398.4,264.3 437.7,328.7 477.0,449.6 516.3,361.6 555.6,366.4 594.9,366.9 634.2,327.4 673.5,354.5 712.8,274.5 752.1,312.7 791.4,169.3 830.7,226.1 870.0,233.2" fill="none" stroke="#882255" stroke-width="2.25" opacity="0.88" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="870.0" cy="233.2" r="3.0" fill="#882255" opacity="0.92"/>
+<text x="904" y="86" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" fill="#111827">Acquisition function</text>
+<line x1="904" y1="108" x2="928" y2="108" stroke="#4D4D4D" stroke-width="2.8" stroke-dasharray="6 5"/><text x="938" y="112" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#1f2937">Random</text>
+<line x1="904" y1="130" x2="928" y2="130" stroke="#0072B2" stroke-width="2.8"/><text x="938" y="134" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#1f2937">Ensemble mean</text>
+<line x1="904" y1="152" x2="928" y2="152" stroke="#E69F00" stroke-width="2.8"/><text x="938" y="156" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#1f2937">Similarity-penalized mean</text>
+<line x1="904" y1="174" x2="928" y2="174" stroke="#009E73" stroke-width="2.8"/><text x="938" y="178" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#1f2937">Predictive entropy</text>
+<line x1="904" y1="196" x2="928" y2="196" stroke="#CC79A7" stroke-width="2.8"/><text x="938" y="200" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#1f2937">Ensemble MI</text>
+<line x1="904" y1="218" x2="928" y2="218" stroke="#56B4E9" stroke-width="2.8"/><text x="938" y="222" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#1f2937">UCB</text>
+<line x1="904" y1="240" x2="928" y2="240" stroke="#D55E00" stroke-width="2.8"/><text x="938" y="244" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#1f2937">Family QBC</text>
+<line x1="904" y1="262" x2="928" y2="262" stroke="#B79F00" stroke-width="2.8"/><text x="938" y="266" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#1f2937">Cluster-diverse representative</text>
+<line x1="904" y1="284" x2="928" y2="284" stroke="#332288" stroke-width="2.8"/><text x="938" y="288" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#1f2937">OED logdet</text>
+<line x1="904" y1="306" x2="928" y2="306" stroke="#882255" stroke-width="2.8"/><text x="938" y="310" font-family="Arial, Helvetica, sans-serif" font-size="11.4" fill="#1f2937">Hybrid MI-diverse</text>
+<text x="477.0" y="642" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111827">Labelled peptides</text>
+<text x="24" y="332.0" transform="rotate(-90 24 332.0)" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#111827">Holdout F1</text>
+</svg>

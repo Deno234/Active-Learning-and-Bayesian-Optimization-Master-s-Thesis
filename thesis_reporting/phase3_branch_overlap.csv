@@ -1,0 +1,10 @@
+branch_a,branch_b,intersection_count,union_count,jaccard
+predictive_entropy,predictive_entropy,40,40,1.0
+predictive_entropy,family_qbc,0,80,0.0
+predictive_entropy,cluster_diverse_representative,0,80,0.0
+family_qbc,predictive_entropy,0,80,0.0
+family_qbc,family_qbc,40,40,1.0
+family_qbc,cluster_diverse_representative,0,80,0.0
+cluster_diverse_representative,predictive_entropy,0,80,0.0
+cluster_diverse_representative,family_qbc,0,80,0.0
+cluster_diverse_representative,cluster_diverse_representative,40,40,1.0

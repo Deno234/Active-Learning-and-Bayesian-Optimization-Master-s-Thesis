@@ -1,0 +1,7 @@
+policy,selected_count,simulated_count,coverage_fraction,positive_count,positive_fraction_among_simulated,positive_fraction_among_selected
+random,5,5,1.0,3,0.6,0.6
+greedy,5,5,1.0,2,0.4,0.4
+ucb,5,5,1.0,1,0.2,0.2
+pi,5,5,1.0,5,1.0,1.0
+ei,5,5,1.0,3,0.6,0.6
+mes,5,4,0.8,1,0.25,0.2

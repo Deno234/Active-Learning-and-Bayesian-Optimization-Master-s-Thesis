@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="508" viewBox="0 0 1160 508">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="660.0" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#0f172a">Benchmark Holdout final F1 delta vs random, initial labels=10</text>
+<line x1="320.0" y1="58" x2="320.0" y2="432" stroke="#e5e7eb"/>
+<text x="320.0" y="450" text-anchor="middle" font-size="11" fill="#475569">-0.031</text>
+<line x1="490.0" y1="58" x2="490.0" y2="432" stroke="#e5e7eb"/>
+<text x="490.0" y="450" text-anchor="middle" font-size="11" fill="#475569">-0.014</text>
+<line x1="660.0" y1="58" x2="660.0" y2="432" stroke="#e5e7eb"/>
+<text x="660.0" y="450" text-anchor="middle" font-size="11" fill="#475569">+0.004</text>
+<line x1="830.0" y1="58" x2="830.0" y2="432" stroke="#e5e7eb"/>
+<text x="830.0" y="450" text-anchor="middle" font-size="11" fill="#475569">+0.021</text>
+<line x1="1000.0" y1="58" x2="1000.0" y2="432" stroke="#e5e7eb"/>
+<text x="1000.0" y="450" text-anchor="middle" font-size="11" fill="#475569">+0.039</text>
+<line x1="624.3" y1="56" x2="624.3" y2="432" stroke="#64748b" stroke-width="1.2" stroke-dasharray="4 4"/>
+<text x="624.3" y="468" text-anchor="middle" font-size="12" fill="#475569">random baseline</text>
+<text x="1138" y="52" text-anchor="end" font-size="11" fill="#64748b">wins shown as folds beating random; n=5</text>
+<text x="304" y="88" text-anchor="end" font-size="12" fill="#334155">Cluster-diverse</text>
+<text x="1138" y="107" text-anchor="end" font-size="11" fill="#64748b">4/5 wins</text>
+<line x1="624.3" y1="102" x2="934.2" y2="102" stroke="#2563eb" stroke-width="4" opacity="0.72"/>
+<circle cx="934.2" cy="102" r="5" fill="#2563eb"/>
+<text x="942.2" y="107" text-anchor="start" font-size="12" fill="#334155">+0.032</text>
+<text x="304" y="130" text-anchor="end" font-size="12" fill="#334155">Family QBC</text>
+<text x="1138" y="149" text-anchor="end" font-size="11" fill="#64748b">4/5 wins</text>
+<line x1="624.3" y1="144" x2="898.3" y2="144" stroke="#2563eb" stroke-width="4" opacity="0.72"/>
+<circle cx="898.3" cy="144" r="5" fill="#2563eb"/>
+<text x="906.3" y="149" text-anchor="start" font-size="12" fill="#334155">+0.028</text>
+<text x="304" y="172" text-anchor="end" font-size="12" fill="#334155">Predictive entropy</text>
+<text x="1138" y="191" text-anchor="end" font-size="11" fill="#64748b">3/5 wins</text>
+<line x1="624.3" y1="186" x2="856.8" y2="186" stroke="#2563eb" stroke-width="4" opacity="0.72"/>
+<circle cx="856.8" cy="186" r="5" fill="#2563eb"/>
+<text x="864.8" y="191" text-anchor="start" font-size="12" fill="#334155">+0.024</text>
+<text x="304" y="214" text-anchor="end" font-size="12" fill="#334155">Hybrid MI + diverse</text>
+<text x="1138" y="233" text-anchor="end" font-size="11" fill="#64748b">3/5 wins</text>
+<line x1="624.3" y1="228" x2="769.1" y2="228" stroke="#2563eb" stroke-width="4" opacity="0.72"/>
+<circle cx="769.1" cy="228" r="5" fill="#2563eb"/>
+<text x="777.1" y="233" text-anchor="start" font-size="12" fill="#334155">+0.015</text>
+<text x="304" y="256" text-anchor="end" font-size="12" fill="#334155">OED logdet</text>
+<text x="1138" y="275" text-anchor="end" font-size="11" fill="#64748b">3/5 wins</text>
+<line x1="624.3" y1="270" x2="765.7" y2="270" stroke="#2563eb" stroke-width="4" opacity="0.72"/>
+<circle cx="765.7" cy="270" r="5" fill="#2563eb"/>
+<text x="773.7" y="275" text-anchor="start" font-size="12" fill="#334155">+0.015</text>
+<text x="304" y="298" text-anchor="end" font-size="12" fill="#334155">Ensemble MI</text>
+<text x="1138" y="317" text-anchor="end" font-size="11" fill="#64748b">3/5 wins</text>
+<line x1="624.3" y1="312" x2="759.4" y2="312" stroke="#2563eb" stroke-width="4" opacity="0.72"/>
+<circle cx="759.4" cy="312" r="5" fill="#2563eb"/>
+<text x="767.4" y="317" text-anchor="start" font-size="12" fill="#334155">+0.014</text>
+<text x="304" y="340" text-anchor="end" font-size="12" fill="#334155">Similarity-penalized mean</text>
+<text x="1138" y="359" text-anchor="end" font-size="11" fill="#64748b">2/5 wins</text>
+<line x1="624.3" y1="354" x2="702.3" y2="354" stroke="#2563eb" stroke-width="4" opacity="0.72"/>
+<circle cx="702.3" cy="354" r="5" fill="#2563eb"/>
+<text x="710.3" y="359" text-anchor="start" font-size="12" fill="#334155">+0.008</text>
+<text x="304" y="382" text-anchor="end" font-size="12" fill="#334155">Mean</text>
+<text x="1138" y="401" text-anchor="end" font-size="11" fill="#64748b">2/5 wins</text>
+<line x1="624.3" y1="396" x2="649.6" y2="396" stroke="#2563eb" stroke-width="4" opacity="0.72"/>
+<circle cx="649.6" cy="396" r="5" fill="#2563eb"/>
+<text x="657.6" y="401" text-anchor="start" font-size="12" fill="#334155">+0.003</text>
+<text x="304" y="424" text-anchor="end" font-size="12" fill="#334155">UCB</text>
+<text x="1138" y="443" text-anchor="end" font-size="11" fill="#64748b">1/5 wins</text>
+<line x1="624.3" y1="438" x2="385.8" y2="438" stroke="#dc2626" stroke-width="4" opacity="0.72"/>
+<circle cx="385.8" cy="438" r="5" fill="#dc2626"/>
+<text x="377.8" y="443" text-anchor="end" font-size="12" fill="#334155">-0.025</text>
+<text x="660.0" y="492" text-anchor="middle" font-size="13" fill="#334155">Mean final F1 delta vs random after 20 replay rounds</text>
+</svg>

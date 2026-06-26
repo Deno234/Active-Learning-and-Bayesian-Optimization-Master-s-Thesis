@@ -1,0 +1,14 @@
+{
+  "fingerprint": "4a03b0453299c8069fc3d1f5c1a315c784dfd6cf536689719f423554f701b547",
+  "model_name": "TSNE_SP",
+  "seed": 20260320,
+  "calibration": {
+    "method": "platt_logit",
+    "coef": 1.039611896310131,
+    "intercept": 0.9326660957396874,
+    "center": 0.921266797127242,
+    "scale": 1.7121123735532577,
+    "sample_count": 59,
+    "positive_count": 40
+  }
+}

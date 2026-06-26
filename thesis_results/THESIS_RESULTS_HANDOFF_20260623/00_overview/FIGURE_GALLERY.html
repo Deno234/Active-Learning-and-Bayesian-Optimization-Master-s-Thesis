@@ -1,0 +1,52 @@
+<!doctype html><html><head><meta charset='utf-8'><title>Thesis Results Handoff</title>
+<style>body{font-family:Arial,sans-serif;margin:32px;color:#172033}h1,h2{color:#0f172a}.phase{margin:38px 0}.figure{border-top:1px solid #dbe2ea;padding:22px 0}.figure img{max-width:1100px;width:100%;height:auto}.note{color:#52606d}.status{border-collapse:collapse}.status td,.status th{border:1px solid #cbd5e1;padding:7px 10px}</style></head><body>
+<h1>Master's Thesis Results Handoff</h1>
+<p class='note'>Curated canonical results plus regenerated Phase 3, primary Phase 4 CG-MD, and Phase 5 figures. Read README.md and CLAIMS_AND_CAVEATS.md before interpreting figures.</p>
+<h2>Phase Status</h2><table class='status'><tr><th>Phase</th><th>Status</th><th>Primary result</th></tr>
+<tr><td>1</td><td>complete</td><td>Nested-CV predictive reproduction</td></tr>
+<tr><td>2</td><td>complete</td><td>Retrospective ten-strategy replay</td></tr>
+<tr><td>3</td><td>complete</td><td>Eight branch-isolated CG-MD feedback rounds</td></tr>
+<tr><td>4</td><td>complete_with_29_of_30_cgmd_outcomes</td><td>Six fixed-surrogate proposal policies plus completed primary CG-MD assessment</td></tr>
+<tr><td>4-D</td><td>complete_exploratory</td><td>Fresh diversity-aware generative replicate</td></tr>
+<tr><td>5</td><td>complete</td><td>Reduced SPAL-inspired self-paced replay</td></tr>
+</table>
+<div class='phase'><h2>01_phase1_reproduction</h2>
+<div class='figure'><h3>phase1_performance_presentation.svg</h3><img src='../01_phase1_reproduction/figures/phase1_performance_presentation.svg' alt='phase1_performance_presentation.svg'></div>
+<div class='phase'><h2>02_phase2_replay</h2>
+<div class='figure'><h3>ablation_holdout_mean_AULC_F1_initial_10.svg</h3><img src='../02_phase2_replay/figures/ablation_holdout_mean_AULC_F1_initial_10.svg' alt='ablation_holdout_mean_AULC_F1_initial_10.svg'></div>
+<div class='figure'><h3>ablation_holdout_mean_AULC_F1_initial_40.svg</h3><img src='../02_phase2_replay/figures/ablation_holdout_mean_AULC_F1_initial_40.svg' alt='ablation_holdout_mean_AULC_F1_initial_40.svg'></div>
+<div class='figure'><h3>ablation_holdout_mean_final_F1_initial_10.svg</h3><img src='../02_phase2_replay/figures/ablation_holdout_mean_final_F1_initial_10.svg' alt='ablation_holdout_mean_final_F1_initial_10.svg'></div>
+<div class='figure'><h3>ablation_holdout_mean_final_F1_initial_40.svg</h3><img src='../02_phase2_replay/figures/ablation_holdout_mean_final_F1_initial_40.svg' alt='ablation_holdout_mean_final_F1_initial_40.svg'></div>
+<div class='figure'><h3>ablation_mean_final_Brier_by_setup.svg</h3><img src='../02_phase2_replay/figures/ablation_mean_final_Brier_by_setup.svg' alt='ablation_mean_final_Brier_by_setup.svg'></div>
+<div class='figure'><h3>ablation_mean_final_ECE_10_by_setup.svg</h3><img src='../02_phase2_replay/figures/ablation_mean_final_ECE_10_by_setup.svg' alt='ablation_mean_final_ECE_10_by_setup.svg'></div>
+<div class='figure'><h3>benchmark_holdout_f1_initial_10_vs_labeled_peptides.svg</h3><img src='../02_phase2_replay/figures/benchmark_holdout_f1_initial_10_vs_labeled_peptides.svg' alt='benchmark_holdout_f1_initial_10_vs_labeled_peptides.svg'></div>
+<div class='figure'><h3>benchmark_holdout_f1_initial_40_vs_labeled_peptides.svg</h3><img src='../02_phase2_replay/figures/benchmark_holdout_f1_initial_40_vs_labeled_peptides.svg' alt='benchmark_holdout_f1_initial_40_vs_labeled_peptides.svg'></div>
+<div class='figure'><h3>benchmark_holdout_labels_to_f1_086_combined_initial_10_40.svg</h3><img src='../02_phase2_replay/figures/benchmark_holdout_labels_to_f1_086_combined_initial_10_40.svg' alt='benchmark_holdout_labels_to_f1_086_combined_initial_10_40.svg'></div>
+<div class='figure'><h3>benchmark_holdout_mean_AULC_F1_initial_10.svg</h3><img src='../02_phase2_replay/figures/benchmark_holdout_mean_AULC_F1_initial_10.svg' alt='benchmark_holdout_mean_AULC_F1_initial_10.svg'></div>
+<div class='figure'><h3>benchmark_holdout_mean_AULC_F1_initial_40.svg</h3><img src='../02_phase2_replay/figures/benchmark_holdout_mean_AULC_F1_initial_40.svg' alt='benchmark_holdout_mean_AULC_F1_initial_40.svg'></div>
+<div class='figure'><h3>benchmark_holdout_mean_final_F1_initial_10.svg</h3><img src='../02_phase2_replay/figures/benchmark_holdout_mean_final_F1_initial_10.svg' alt='benchmark_holdout_mean_final_F1_initial_10.svg'></div>
+<div class='figure'><h3>benchmark_holdout_mean_final_F1_initial_40.svg</h3><img src='../02_phase2_replay/figures/benchmark_holdout_mean_final_F1_initial_40.svg' alt='benchmark_holdout_mean_final_F1_initial_40.svg'></div>
+<div class='figure'><h3>benchmark_pairwise_jaccard_heatmap_initial_10_presentation.svg</h3><img src='../02_phase2_replay/figures/benchmark_pairwise_jaccard_heatmap_initial_10_presentation.svg' alt='benchmark_pairwise_jaccard_heatmap_initial_10_presentation.svg'></div>
+<div class='figure'><h3>benchmark_pairwise_jaccard_heatmap_initial_40_presentation.svg</h3><img src='../02_phase2_replay/figures/benchmark_pairwise_jaccard_heatmap_initial_40_presentation.svg' alt='benchmark_pairwise_jaccard_heatmap_initial_40_presentation.svg'></div>
+<div class='phase'><h2>03_phase3_real_active_learning</h2>
+<div class='figure'><h3>phase3_cumulative_positive_labels.svg</h3><img src='../03_phase3_real_active_learning/figures/phase3_cumulative_positive_labels.svg' alt='phase3_cumulative_positive_labels.svg'></div>
+<div class='figure'><h3>phase3_final_holdout_metrics.svg</h3><img src='../03_phase3_real_active_learning/figures/phase3_final_holdout_metrics.svg' alt='phase3_final_holdout_metrics.svg'></div>
+<div class='figure'><h3>phase3_positive_rate_by_branch.svg</h3><img src='../03_phase3_real_active_learning/figures/phase3_positive_rate_by_branch.svg' alt='phase3_positive_rate_by_branch.svg'></div>
+<div class='phase'><h2>04_phase4_bayesian_optimization</h2>
+<div class='figure'><h3>primary_phase4_cgmd_threshold_scatter.svg</h3><img src='../04_phase4_bayesian_optimization/figures/primary_phase4_cgmd_threshold_scatter.svg' alt='primary_phase4_cgmd_threshold_scatter.svg'></div>
+<div class='figure'><h3>primary_phase4_cgmd_yield_by_policy.svg</h3><img src='../04_phase4_bayesian_optimization/figures/primary_phase4_cgmd_yield_by_policy.svg' alt='primary_phase4_cgmd_yield_by_policy.svg'></div>
+<div class='figure'><h3>primary_phase4_selected_lengths.svg</h3><img src='../04_phase4_bayesian_optimization/figures/primary_phase4_selected_lengths.svg' alt='primary_phase4_selected_lengths.svg'></div>
+<div class='figure'><h3>phase4d_diversity_change.svg</h3><img src='../04_phase4_bayesian_optimization/phase4d/figures/phase4d_diversity_change.svg' alt='phase4d_diversity_change.svg'></div>
+<div class='figure'><h3>phase4d_utility_tradeoff.svg</h3><img src='../04_phase4_bayesian_optimization/phase4d/figures/phase4d_utility_tradeoff.svg' alt='phase4d_utility_tradeoff.svg'></div>
+<div class='phase'><h2>05_phase5_self_paced</h2>
+<div class='figure'><h3>compute_time_comparison_initial_10.svg</h3><img src='../05_phase5_self_paced/figures/compute_time_comparison_initial_10.svg' alt='compute_time_comparison_initial_10.svg'></div>
+<div class='figure'><h3>distance_vs_post_hoc_pre_query_log_loss_initial_10.svg</h3><img src='../05_phase5_self_paced/figures/distance_vs_post_hoc_pre_query_log_loss_initial_10.svg' alt='distance_vs_post_hoc_pre_query_log_loss_initial_10.svg'></div>
+<div class='figure'><h3>eligible_pool_fraction_vs_round_initial_10.svg</h3><img src='../05_phase5_self_paced/figures/eligible_pool_fraction_vs_round_initial_10.svg' alt='eligible_pool_fraction_vs_round_initial_10.svg'></div>
+<div class='figure'><h3>error_rate_by_difficulty_quintile_initial_10.svg</h3><img src='../05_phase5_self_paced/figures/error_rate_by_difficulty_quintile_initial_10.svg' alt='error_rate_by_difficulty_quintile_initial_10.svg'></div>
+<div class='figure'><h3>holdout_f1_vs_labelled_count_initial_10.svg</h3><img src='../05_phase5_self_paced/figures/holdout_f1_vs_labelled_count_initial_10.svg' alt='holdout_f1_vs_labelled_count_initial_10.svg'></div>
+<div class='figure'><h3>labels_to_target_initial_10.svg</h3><img src='../05_phase5_self_paced/figures/labels_to_target_initial_10.svg' alt='labels_to_target_initial_10.svg'></div>
+<div class='figure'><h3>paired_aulc_differences_initial_10.svg</h3><img src='../05_phase5_self_paced/figures/paired_aulc_differences_initial_10.svg' alt='paired_aulc_differences_initial_10.svg'></div>
+<div class='figure'><h3>selected_difficulty_vs_round_initial_10.svg</h3><img src='../05_phase5_self_paced/figures/selected_difficulty_vs_round_initial_10.svg' alt='selected_difficulty_vs_round_initial_10.svg'></div>
+<div class='figure'><h3>selection_overlap_heatmap_initial_10.svg</h3><img src='../05_phase5_self_paced/figures/selection_overlap_heatmap_initial_10.svg' alt='selection_overlap_heatmap_initial_10.svg'></div>
+<div class='figure'><h3>sequence_diversity_comparison_initial_10.svg</h3><img src='../05_phase5_self_paced/figures/sequence_diversity_comparison_initial_10.svg' alt='sequence_diversity_comparison_initial_10.svg'></div>
+</body></html>

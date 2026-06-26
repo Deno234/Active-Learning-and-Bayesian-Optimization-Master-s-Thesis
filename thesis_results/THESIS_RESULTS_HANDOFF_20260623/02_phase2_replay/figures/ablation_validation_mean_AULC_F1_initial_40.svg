@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="482" viewBox="0 0 1000 482">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="500.0" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#0f172a">Ablation Validation AULC-F1, initial labels=40</text>
+<text x="310" y="74" text-anchor="end" font-size="12" fill="#334155">Predictive entropy</text>
+<rect x="320" y="58" width="630.0" height="18" rx="3" fill="#2563eb" opacity="0.82"/>
+<text x="956.0" y="72" font-size="12" fill="#334155">0.887</text>
+<text x="310" y="102" text-anchor="end" font-size="12" fill="#334155">ensemble raw / Predictive entropy</text>
+<rect x="320" y="86" width="629.5" height="18" rx="3" fill="#16a34a" opacity="0.82"/>
+<text x="955.5" y="100" font-size="12" fill="#334155">0.886</text>
+<text x="310" y="130" text-anchor="end" font-size="12" fill="#334155">single calibrated / Predictive entropy</text>
+<rect x="320" y="114" width="628.9" height="18" rx="3" fill="#dc2626" opacity="0.82"/>
+<text x="954.9" y="128" font-size="12" fill="#334155">0.885</text>
+<text x="310" y="158" text-anchor="end" font-size="12" fill="#334155">single raw / Predictive entropy</text>
+<rect x="320" y="142" width="627.0" height="18" rx="3" fill="#9333ea" opacity="0.82"/>
+<text x="953.0" y="156" font-size="12" fill="#334155">0.883</text>
+<text x="310" y="186" text-anchor="end" font-size="12" fill="#334155">ensemble raw / Random</text>
+<rect x="320" y="170" width="626.3" height="18" rx="3" fill="#ea580c" opacity="0.82"/>
+<text x="952.3" y="184" font-size="12" fill="#334155">0.881</text>
+<text x="310" y="214" text-anchor="end" font-size="12" fill="#334155">Cluster-diverse</text>
+<rect x="320" y="198" width="626.2" height="18" rx="3" fill="#0891b2" opacity="0.82"/>
+<text x="952.2" y="212" font-size="12" fill="#334155">0.881</text>
+<text x="310" y="242" text-anchor="end" font-size="12" fill="#334155">ensemble raw / Cluster-diverse</text>
+<rect x="320" y="226" width="625.7" height="18" rx="3" fill="#4f46e5" opacity="0.82"/>
+<text x="951.7" y="240" font-size="12" fill="#334155">0.881</text>
+<text x="310" y="270" text-anchor="end" font-size="12" fill="#334155">Random</text>
+<rect x="320" y="254" width="625.7" height="18" rx="3" fill="#65a30d" opacity="0.82"/>
+<text x="951.7" y="268" font-size="12" fill="#334155">0.881</text>
+<text x="310" y="298" text-anchor="end" font-size="12" fill="#334155">OED logdet</text>
+<rect x="320" y="282" width="624.8" height="18" rx="3" fill="#be123c" opacity="0.82"/>
+<text x="950.8" y="296" font-size="12" fill="#334155">0.879</text>
+<text x="310" y="326" text-anchor="end" font-size="12" fill="#334155">ensemble raw / OED logdet</text>
+<rect x="320" y="310" width="624.5" height="18" rx="3" fill="#0f766e" opacity="0.82"/>
+<text x="950.5" y="324" font-size="12" fill="#334155">0.879</text>
+<text x="310" y="354" text-anchor="end" font-size="12" fill="#334155">single calibrated / Random</text>
+<rect x="320" y="338" width="620.9" height="18" rx="3" fill="#7c3aed" opacity="0.82"/>
+<text x="946.9" y="352" font-size="12" fill="#334155">0.874</text>
+<text x="310" y="382" text-anchor="end" font-size="12" fill="#334155">single calibrated / Cluster-diverse</text>
+<rect x="320" y="366" width="620.5" height="18" rx="3" fill="#ca8a04" opacity="0.82"/>
+<text x="946.5" y="380" font-size="12" fill="#334155">0.873</text>
+<text x="310" y="410" text-anchor="end" font-size="12" fill="#334155">single raw / Random</text>
+<rect x="320" y="394" width="620.5" height="18" rx="3" fill="#2563eb" opacity="0.82"/>
+<text x="946.5" y="408" font-size="12" fill="#334155">0.873</text>
+<text x="310" y="438" text-anchor="end" font-size="12" fill="#334155">single raw / Cluster-diverse</text>
+<rect x="320" y="422" width="619.8" height="18" rx="3" fill="#16a34a" opacity="0.82"/>
+<text x="945.8" y="436" font-size="12" fill="#334155">0.872</text>
+</svg>

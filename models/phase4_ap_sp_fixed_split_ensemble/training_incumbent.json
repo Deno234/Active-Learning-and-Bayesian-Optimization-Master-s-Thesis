@@ -1,0 +1,13 @@
+{
+  "definition": "maximum calibrated ensemble mean over fixed 235-row training set",
+  "value": 0.9926534603589554,
+  "sequence": "INHVGGTGGAIMAPVAVTRQLVGS",
+  "training_row_count": 235,
+  "calibrated_member_probabilities": [
+    0.9976810019140817,
+    0.9968306833641319,
+    0.9883726999877104,
+    0.9889139563527864,
+    0.9914689601760667
+  ]
+}

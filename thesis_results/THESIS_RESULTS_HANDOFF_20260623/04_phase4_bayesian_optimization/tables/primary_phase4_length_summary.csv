@@ -1,0 +1,7 @@
+policy,mean_length,maximum_length
+random,5.0,5
+greedy,10.0,10
+ucb,10.0,10
+pi,20.8,21
+ei,6.2,7
+mes,23.6,25

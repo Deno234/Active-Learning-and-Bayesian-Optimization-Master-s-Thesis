@@ -1,0 +1,20 @@
+# Thesis Figure And Table Plan
+
+The plan intentionally favours one visual per scientific question plus exact-value tables. Existing files in `thesis_results/THESIS_RESULTS_HANDOFF_20260623/` provide many of these visuals; the machine-readable sources below remain authoritative.
+
+| No. | Working title | RQ | Data source | Type/axes | Uncertainty | Caption message | Boundary | Placement |
+|---|---|---|---|---|---|---|---|---|
+| Fig. 1 | Predictive model-family comparison | RQ1 foundation | phase1_model_family_summary.csv | Grouped bars/dots: F1 and PR-AUC by family | Fold-level points + mean/SD; folds labelled non-independent | AP_SP is competitive and becomes the downstream surrogate | Do not imply independent replication | Main |
+| Fig. 2 | Phase 2 holdout learning curves, n0=10 | RQ1 | Phase 2 learning_curves.csv | F1 vs labelled count | Mean with fold range or SD | Strategy trajectories differ most at low budgets | Retrospective replay | Main |
+| Fig. 3 | Phase 2 AULC and labels-to-target | RQ1 | phase2_strategy_summary_n0_10.csv and n0_40.csv | Two-panel dot/bar plot | Fold points; target reach count annotated | Separate n0 conditions and distinguish reach from conditional mean | No cross-interval pooling | Main |
+| Table 1 | Phase 2 ten-strategy exact summary | RQ1 | phase2_strategy_summary_n0_10.csv; n0_40.csv | Exact table | Mean, SD, range, reach counts | Preserves full quantitative benchmark | PI/EI/MES excluded | Main |
+| Fig. 4 | Calibration and ensemble ablation | RQ1 support | ablation_summary.csv | F1/AULC plus Brier/ECE panels | Five fold conditions | Calibration/ensembling affect performance and probability quality | Separate from policy ranking | Appendix or main if space |
+| Fig. 5 | Phase 3 cumulative operational positives | RQ2 | phase3_round_outcomes.csv | Cumulative step lines by branch | Raw counts, no CI | All three branches produced computational positives over eight rounds | Branch-local labels; one trajectory each | Main |
+| Table 2 | Phase 3 terminal branch comparison | RQ2 | phase3_terminal_holdout.csv | Exact table | F1, PR-AUC, Brier, ECE, threshold | Terminal branch models are similar but not identical | Same holdout reused descriptively | Main |
+| Fig. 6 | Shared CG-MD outcome plane | RQ2 and RQ3 | shared_cgmd_inventory.csv | AP-SASA vs final-10-ns path contact with thresholds | Raw points; phase/branch/policy encoding | Shows operational conjunction and outcome distribution | Not experimental validation | Main |
+| Table 3 | Primary Phase 4 policy assessment | RQ3 | phase4_policy_summary.csv | Counts and percentages | Report positives/assessed and assessed/5 | Fixed-surrogate policies produced different operational yields | Only five records/policy; MES coverage 4/5 | Main |
+| Fig. 7 | Primary Phase 4 utility versus CG-MD outcome | RQ3 | phase4_assessment_inventory.csv | Policy-faceted scatter | Raw records, no cross-policy utility comparison | Within-policy ranking can be compared with outcomes | Utility scales differ | Appendix |
+| Fig. 8 | Phase 4-D utility-diversity trade-off | RQ3 | phase4d_tradeoffs.csv | Delta diversity vs delta utility | One point/guided policy | Similarity-aware selection raises diversity at utility cost | Fresh-pool comparison with primary is descriptive only | Main |
+| Fig. 9 | Phase 5 full and partial AULC | RQ3 | phase5_strategy_summary.csv | Grouped intervals | Three fold-level points + means | Predictive entropy leads full AULC; self-paced exceeds static easy only | Overlapping folds, corrected aggregation | Main |
+| Fig. 10 | Phase 5 familiarity and eligibility | RQ3 | Phase 5 proxy and eligibility tables | Two-panel trajectory/scatter | Descriptive fold-step summaries | Proxy carries difficulty information but pacing can exclude useful hard points | Not intrinsic chemical difficulty | Main |
+| Table 4 | Phase 5 exact result summary | RQ3 | phase5_strategy_summary.csv | Exact table | Full/partial AULC, terminal metrics, targets | Preserves mixed/null finding | Three overlapping folds | Main |

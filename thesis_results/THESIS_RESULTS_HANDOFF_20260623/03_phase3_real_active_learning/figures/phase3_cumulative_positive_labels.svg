@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="600" viewBox="0 0 980 600">
+<rect width="980" height="600" fill="#ffffff"/>
+<text x="490.0" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0f172a">Phase 3 cumulative CG-MD positive labels</text>
+<text x="490.0" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">Five branch-local acquisitions per round; labels were never shared across branches.</text>
+<line x1="90" y1="520.0" x2="730" y2="520.0" stroke="#e2e8f0"/>
+<text x="80" y="524.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">0.00</text>
+<line x1="90" y1="432.0" x2="730" y2="432.0" stroke="#e2e8f0"/>
+<text x="80" y="436.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">4.60</text>
+<line x1="90" y1="344.0" x2="730" y2="344.0" stroke="#e2e8f0"/>
+<text x="80" y="348.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">9.20</text>
+<line x1="90" y1="256.0" x2="730" y2="256.0" stroke="#e2e8f0"/>
+<text x="80" y="260.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">13.80</text>
+<line x1="90" y1="168.0" x2="730" y2="168.0" stroke="#e2e8f0"/>
+<text x="80" y="172.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">18.40</text>
+<line x1="90" y1="80.0" x2="730" y2="80.0" stroke="#e2e8f0"/>
+<text x="80" y="84.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">23.00</text>
+<line x1="90.0" y1="80" x2="90.0" y2="520" stroke="#f1f5f9"/>
+<text x="90.0" y="542" text-anchor="middle" font-family="Arial" font-size="11" fill="#475569">1</text>
+<line x1="218.0" y1="80" x2="218.0" y2="520" stroke="#f1f5f9"/>
+<text x="218.0" y="542" text-anchor="middle" font-family="Arial" font-size="11" fill="#475569">2</text>
+<line x1="346.0" y1="80" x2="346.0" y2="520" stroke="#f1f5f9"/>
+<text x="346.0" y="542" text-anchor="middle" font-family="Arial" font-size="11" fill="#475569">4</text>
+<line x1="474.0" y1="80" x2="474.0" y2="520" stroke="#f1f5f9"/>
+<text x="474.0" y="542" text-anchor="middle" font-family="Arial" font-size="11" fill="#475569">5</text>
+<line x1="602.0" y1="80" x2="602.0" y2="520" stroke="#f1f5f9"/>
+<text x="602.0" y="542" text-anchor="middle" font-family="Arial" font-size="11" fill="#475569">7</text>
+<line x1="730.0" y1="80" x2="730.0" y2="520" stroke="#f1f5f9"/>
+<text x="730.0" y="542" text-anchor="middle" font-family="Arial" font-size="11" fill="#475569">8</text>
+<line x1="90" y1="520" x2="730" y2="520" stroke="#334155" stroke-width="1.5"/>
+<line x1="90" y1="80" x2="90" y2="520" stroke="#334155" stroke-width="1.5"/>
+<text x="410.0" y="576" text-anchor="middle" font-family="Arial" font-size="13" fill="#334155">CG-MD acquisition round</text>
+<text x="22" y="300.0" transform="rotate(-90 22 300.0)" text-anchor="middle" font-family="Arial" font-size="13" fill="#334155">Cumulative positive labels</text>
+<polyline points="90.0,500.9 181.4,424.3 272.9,386.1 364.3,309.6 455.7,271.3 547.1,252.2 638.6,175.7 730.0,156.5" fill="none" stroke="#2563eb" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="90.0" cy="500.9" r="2.5" fill="#2563eb"/>
+<circle cx="181.4" cy="424.3" r="2.5" fill="#2563eb"/>
+<circle cx="272.9" cy="386.1" r="2.5" fill="#2563eb"/>
+<circle cx="364.3" cy="309.6" r="2.5" fill="#2563eb"/>
+<circle cx="455.7" cy="271.3" r="2.5" fill="#2563eb"/>
+<circle cx="547.1" cy="252.2" r="2.5" fill="#2563eb"/>
+<circle cx="638.6" cy="175.7" r="2.5" fill="#2563eb"/>
+<circle cx="730.0" cy="156.5" r="2.5" fill="#2563eb"/>
+<line x1="758" y1="90" x2="785" y2="90" stroke="#2563eb" stroke-width="3"/>
+<text x="793" y="94" font-family="Arial" font-size="12" fill="#1e293b">predictive entropy</text>
+<polyline points="90.0,481.7 181.4,386.1 272.9,347.8 364.3,309.6 455.7,233.0 547.1,194.8 638.6,137.4 730.0,118.3" fill="none" stroke="#0f766e" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="90.0" cy="481.7" r="2.5" fill="#0f766e"/>
+<circle cx="181.4" cy="386.1" r="2.5" fill="#0f766e"/>
+<circle cx="272.9" cy="347.8" r="2.5" fill="#0f766e"/>
+<circle cx="364.3" cy="309.6" r="2.5" fill="#0f766e"/>
+<circle cx="455.7" cy="233.0" r="2.5" fill="#0f766e"/>
+<circle cx="547.1" cy="194.8" r="2.5" fill="#0f766e"/>
+<circle cx="638.6" cy="137.4" r="2.5" fill="#0f766e"/>
+<circle cx="730.0" cy="118.3" r="2.5" fill="#0f766e"/>
+<line x1="758" y1="115" x2="785" y2="115" stroke="#0f766e" stroke-width="3"/>
+<text x="793" y="119" font-family="Arial" font-size="12" fill="#1e293b">family qbc</text>
+<polyline points="90.0,500.9 181.4,462.6 272.9,424.3 364.3,367.0 455.7,367.0 547.1,309.6 638.6,233.0 730.0,156.5" fill="none" stroke="#d97706" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="90.0" cy="500.9" r="2.5" fill="#d97706"/>
+<circle cx="181.4" cy="462.6" r="2.5" fill="#d97706"/>
+<circle cx="272.9" cy="424.3" r="2.5" fill="#d97706"/>
+<circle cx="364.3" cy="367.0" r="2.5" fill="#d97706"/>
+<circle cx="455.7" cy="367.0" r="2.5" fill="#d97706"/>
+<circle cx="547.1" cy="309.6" r="2.5" fill="#d97706"/>
+<circle cx="638.6" cy="233.0" r="2.5" fill="#d97706"/>
+<circle cx="730.0" cy="156.5" r="2.5" fill="#d97706"/>
+<line x1="758" y1="140" x2="785" y2="140" stroke="#d97706" stroke-width="3"/>
+<text x="793" y="144" font-family="Arial" font-size="12" fill="#1e293b">cluster diverse representative</text>
+</svg>

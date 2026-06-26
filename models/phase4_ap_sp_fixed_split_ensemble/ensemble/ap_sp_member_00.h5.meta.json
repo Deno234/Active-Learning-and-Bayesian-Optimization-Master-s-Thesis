@@ -1,0 +1,23 @@
+{
+  "fingerprint": "db4678a3ee76a5f10649a1fda4030a4e2b78f8c532438a0ec380a676cd81d160",
+  "model_name": "AP_SP",
+  "seed": 20260317,
+  "calibration": {
+    "method": "platt_logit",
+    "coef": 1.6835207319690009,
+    "intercept": 1.130158999798754,
+    "center": 1.0079876520049542,
+    "scale": 3.158681863445007,
+    "sample_count": 59,
+    "positive_count": 40,
+    "fallback_used": false,
+    "fallback_reason": "",
+    "validation_logit_std": 3.158681863445007,
+    "fitting_attempted": true,
+    "iterations": 500,
+    "learning_rate": 0.05,
+    "l2": 0.001,
+    "max_iterations": 500,
+    "probability_clipping_epsilon": 1e-06
+  }
+}

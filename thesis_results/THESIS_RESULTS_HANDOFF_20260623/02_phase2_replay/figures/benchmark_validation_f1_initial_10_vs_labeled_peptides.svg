@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1220" height="720" viewBox="0 0 1220 720">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="610.0" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="600" fill="#0f172a">Benchmark Validation F1 vs labeled peptides, initial labels=10</text>
+<text x="90" y="54" font-size="12" fill="#64748b">Lines show mean across outer folds; random is dashed; Phase 3 strategies are emphasized.</text>
+<line x1="90" y1="632" x2="860" y2="632" stroke="#334155"/>
+<line x1="90" y1="70" x2="90" y2="632" stroke="#334155"/>
+<line x1="90.0" y1="632" x2="90.0" y2="637" stroke="#334155"/>
+<text x="90.0" y="654" text-anchor="middle" font-size="12" fill="#475569">10</text>
+<line x1="244.0" y1="632" x2="244.0" y2="637" stroke="#334155"/>
+<text x="244.0" y="654" text-anchor="middle" font-size="12" fill="#475569">30</text>
+<line x1="398.0" y1="632" x2="398.0" y2="637" stroke="#334155"/>
+<text x="398.0" y="654" text-anchor="middle" font-size="12" fill="#475569">50</text>
+<line x1="552.0" y1="632" x2="552.0" y2="637" stroke="#334155"/>
+<text x="552.0" y="654" text-anchor="middle" font-size="12" fill="#475569">70</text>
+<line x1="706.0" y1="632" x2="706.0" y2="637" stroke="#334155"/>
+<text x="706.0" y="654" text-anchor="middle" font-size="12" fill="#475569">90</text>
+<line x1="860.0" y1="632" x2="860.0" y2="637" stroke="#334155"/>
+<text x="860.0" y="654" text-anchor="middle" font-size="12" fill="#475569">110</text>
+<line x1="90" y1="632.0" x2="860" y2="632.0" stroke="#e5e7eb"/>
+<text x="80" y="636.0" text-anchor="end" font-size="12" fill="#475569">0.82</text>
+<line x1="90" y1="519.6" x2="860" y2="519.6" stroke="#e5e7eb"/>
+<text x="80" y="523.6" text-anchor="end" font-size="12" fill="#475569">0.84</text>
+<line x1="90" y1="407.2" x2="860" y2="407.2" stroke="#e5e7eb"/>
+<text x="80" y="411.2" text-anchor="end" font-size="12" fill="#475569">0.86</text>
+<line x1="90" y1="294.8" x2="860" y2="294.8" stroke="#e5e7eb"/>
+<text x="80" y="298.8" text-anchor="end" font-size="12" fill="#475569">0.87</text>
+<line x1="90" y1="182.4" x2="860" y2="182.4" stroke="#e5e7eb"/>
+<text x="80" y="186.4" text-anchor="end" font-size="12" fill="#475569">0.89</text>
+<line x1="90" y1="70.0" x2="860" y2="70.0" stroke="#e5e7eb"/>
+<text x="80" y="74.0" text-anchor="end" font-size="12" fill="#475569">0.90</text>
+<polyline points="90.0,593.1 128.5,508.0 167.0,540.7 205.5,540.9 244.0,477.4 282.5,520.9 321.0,328.8 359.5,342.8 398.0,303.8 436.5,372.7 475.0,272.7 513.5,266.9 552.0,290.7 590.5,306.8 629.0,232.7 667.5,280.0 706.0,261.4 744.5,241.3 783.0,285.5 821.5,241.9 860.0,208.7" fill="none" stroke="#475569" stroke-width="3.2" opacity="0.96" stroke-dasharray="5 5"/>
+<rect x="890" y="60" width="10" height="10" fill="#475569"/>
+<text x="906" y="70" font-size="11" font-weight="600" fill="#334155">Random</text>
+<polyline points="90.0,593.1 128.5,499.6 167.0,458.4 205.5,352.3 244.0,295.9 282.5,345.3 321.0,393.5 359.5,325.4 398.0,269.8 436.5,325.9 475.0,222.5 513.5,270.6 552.0,158.7 590.5,137.0 629.0,156.9 667.5,182.2 706.0,147.0 744.5,92.1 783.0,80.0 821.5,151.5 860.0,129.0" fill="none" stroke="#2563eb" stroke-width="3.2" opacity="0.96"/>
+<rect x="890" y="80" width="10" height="10" fill="#2563eb"/>
+<text x="906" y="90" font-size="11" font-weight="600" fill="#334155">Predictive entropy</text>
+<polyline points="90.0,593.1 128.5,504.2 167.0,484.8 205.5,525.0 244.0,618.4 282.5,567.8 321.0,503.6 359.5,411.3 398.0,349.2 436.5,356.3 475.0,342.7 513.5,299.9 552.0,165.5 590.5,150.8 629.0,70.0 667.5,159.1 706.0,135.7 744.5,143.9 783.0,171.1 821.5,168.4 860.0,137.6" fill="none" stroke="#7c3aed" stroke-width="3.2" opacity="0.96"/>
+<rect x="890" y="100" width="10" height="10" fill="#7c3aed"/>
+<text x="906" y="110" font-size="11" font-weight="600" fill="#334155">Family QBC</text>
+<polyline points="90.0,593.1 128.5,488.8 167.0,469.0 205.5,526.6 244.0,509.1 282.5,454.5 321.0,452.8 359.5,420.6 398.0,342.2 436.5,302.4 475.0,300.5 513.5,233.1 552.0,272.2 590.5,266.6 629.0,253.4 667.5,223.0 706.0,202.2 744.5,243.3 783.0,229.1 821.5,199.9 860.0,256.0" fill="none" stroke="#16a34a" stroke-width="3.2" opacity="0.96"/>
+<rect x="890" y="120" width="10" height="10" fill="#16a34a"/>
+<text x="906" y="130" font-size="11" font-weight="600" fill="#334155">Cluster-diverse</text>
+<polyline points="90.0,593.1 128.5,580.1 167.0,483.7 205.5,549.1 244.0,447.7 282.5,406.3 321.0,418.7 359.5,359.9 398.0,294.9 436.5,282.2 475.0,276.5 513.5,253.0 552.0,216.0 590.5,242.3 629.0,244.9 667.5,157.9 706.0,192.8 744.5,105.8 783.0,77.9 821.5,119.3 860.0,138.4" fill="none" stroke="#0891b2" stroke-width="1.7" opacity="0.48"/>
+<rect x="890" y="140" width="10" height="10" fill="#0891b2"/>
+<text x="906" y="150" font-size="11" font-weight="400" fill="#334155">Ensemble MI</text>
+<polyline points="90.0,593.1 128.5,454.6 167.0,528.4 205.5,416.4 244.0,513.6 282.5,524.4 321.0,493.2 359.5,531.1 398.0,511.9 436.5,431.4 475.0,391.5 513.5,337.4 552.0,376.2 590.5,332.7 629.0,208.9 667.5,165.2 706.0,203.1 744.5,111.9 783.0,150.2 821.5,147.5 860.0,89.7" fill="none" stroke="#ea580c" stroke-width="1.7" opacity="0.48"/>
+<rect x="890" y="160" width="10" height="10" fill="#ea580c"/>
+<text x="906" y="170" font-size="11" font-weight="400" fill="#334155">Hybrid MI + diverse</text>
+<polyline points="90.0,593.1 128.5,536.2 167.0,480.2 205.5,514.2 244.0,547.6 282.5,510.9 321.0,478.6 359.5,465.4 398.0,378.1 436.5,428.6 475.0,471.6 513.5,364.4 552.0,306.8 590.5,302.1 629.0,279.0 667.5,320.4 706.0,343.7 744.5,211.9 783.0,220.2 821.5,302.0 860.0,181.2" fill="none" stroke="#ca8a04" stroke-width="1.7" opacity="0.48"/>
+<rect x="890" y="180" width="10" height="10" fill="#ca8a04"/>
+<text x="906" y="190" font-size="11" font-weight="400" fill="#334155">OED logdet</text>
+<polyline points="90.0,593.1 128.5,598.2 167.0,632.0 205.5,556.0 244.0,521.6 282.5,449.2 321.0,485.5 359.5,426.4 398.0,461.9 436.5,425.0 475.0,366.9 513.5,330.0 552.0,401.3 590.5,405.2 629.0,344.1 667.5,433.0 706.0,403.0 744.5,417.1 783.0,452.3 821.5,418.5 860.0,317.5" fill="none" stroke="#64748b" stroke-width="1.7" opacity="0.48"/>
+<rect x="890" y="200" width="10" height="10" fill="#64748b"/>
+<text x="906" y="210" font-size="11" font-weight="400" fill="#334155">Mean</text>
+<polyline points="90.0,593.1 128.5,587.6 167.0,583.4 205.5,552.6 244.0,578.1 282.5,437.4 321.0,515.8 359.5,440.2 398.0,482.2 436.5,547.9 475.0,568.6 513.5,424.9 552.0,427.1 590.5,443.1 629.0,447.4 667.5,473.1 706.0,433.2 744.5,410.5 783.0,424.3 821.5,523.7 860.0,377.2" fill="none" stroke="#be123c" stroke-width="1.7" opacity="0.48"/>
+<rect x="890" y="220" width="10" height="10" fill="#be123c"/>
+<text x="906" y="230" font-size="11" font-weight="400" fill="#334155">Similarity-penalized mean</text>
+<polyline points="90.0,593.1 128.5,560.6 167.0,559.7 205.5,513.3 244.0,465.1 282.5,452.0 321.0,546.8 359.5,484.5 398.0,460.4 436.5,453.6 475.0,502.8 513.5,486.0 552.0,469.4 590.5,502.4 629.0,455.8 667.5,471.4 706.0,521.7 744.5,507.9 783.0,487.9 821.5,500.4 860.0,461.9" fill="none" stroke="#0f766e" stroke-width="1.7" opacity="0.48"/>
+<rect x="890" y="240" width="10" height="10" fill="#0f766e"/>
+<text x="906" y="250" font-size="11" font-weight="400" fill="#334155">UCB</text>
+<text x="475.0" y="695" text-anchor="middle" font-size="13" fill="#334155">Number of labeled peptides</text>
+<text x="24" y="351.0" transform="rotate(-90 24 351.0)" text-anchor="middle" font-size="13" fill="#334155">F1</text>
+</svg>

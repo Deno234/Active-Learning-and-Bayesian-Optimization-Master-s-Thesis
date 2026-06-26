@@ -1,0 +1,4 @@
+branch,initial_labeled_count,round_count,acquisitions_per_round,acquired_count,final_labeled_count,positive_outcomes,positive_yield,mean_pairwise_normalized_levenshtein,minimum_pairwise_normalized_levenshtein
+predictive_entropy,235,8,5,40,275,19,0.475,0.9022995522995524,0.14285714285714285
+family_qbc,235,8,5,40,275,21,0.525,0.9100208587708587,0.14285714285714285
+cluster_diverse_representative,235,8,5,40,275,19,0.475,0.9129337098087098,0.4

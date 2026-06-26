@@ -1,0 +1,49 @@
+define                   =  -DPOSRES -DPOSRES_FC=4000
+
+integrator               = steep
+dt                       = 0.01  
+nsteps                   = 50000
+nstcomm                  = 100
+comm-grps		 = 
+emtol                  = 10
+nstxout                  = 0
+nstvout                  = 0
+nstfout                  = 0
+nstlog                   = 10000
+nstenergy                = 10000
+nstxout-compressed       = 10000
+compressed-x-precision   = 100
+compressed-x-grps        = 
+energygrps               = Protein PW 
+
+cutoff-scheme            = Verlet
+nstlist                  = 20
+ns_type                  = grid
+pbc                      = xyz
+verlet-buffer-tolerance  = 0.005
+
+coulombtype              = reaction-field 
+rcoulomb                 = 1.1
+epsilon_r                =2.5
+epsilon_rf               = 0
+vdw_type                 = cutoff  
+vdw-modifier             = Potential-shift-verlet
+rvdw                     = 1.1
+
+;TEMP COUPLING
+tcoupl                   = no
+
+;PRESSURE COUPLING
+Pcoupl                   = no
+
+;GENERATED VELOCITIES
+gen_vel                  = no
+gen_temp                 = 303
+gen_seed                 = 473529
+
+;CONSTRAINTS
+
+constraints              = none 
+constraint_algorithm     = Lincs
+lincs-order=8
+lincs-iter=2

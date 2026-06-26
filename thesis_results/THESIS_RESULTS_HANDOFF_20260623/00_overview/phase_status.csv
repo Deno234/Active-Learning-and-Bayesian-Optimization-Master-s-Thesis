@@ -1,0 +1,7 @@
+phase,status,primary_result,canonical_source
+1,complete,Nested-CV predictive reproduction,thesis_results\01_reproduction
+2,complete,Retrospective ten-strategy replay,thesis_results\02_replay\evidence
+3,complete,Eight branch-isolated CG-MD feedback rounds,thesis_results\03_real_al\phase3_results_20260620\thesis_results\03_real_al
+4,complete_with_29_of_30_cgmd_outcomes,Six fixed-surrogate proposal policies plus completed primary CG-MD assessment,thesis_results\04_bayesian_optimization\Phase4 results\phase4_complete_20260621\thesis_results\04_bayesian_optimization
+4-D,complete_exploratory,Fresh diversity-aware generative replicate,thesis_results\04_bayesian_optimization\Phase4 results\phase4_complete_20260621\thesis_results\04_bayesian_optimization\phase4d\run_001
+5,complete,Reduced SPAL-inspired self-paced replay,thesis_results\05_self_paced_active_learning

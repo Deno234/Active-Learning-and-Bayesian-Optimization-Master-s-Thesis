@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="560" viewBox="0 0 980 560">
+<rect width="980" height="560" fill="#ffffff"/>
+<text x="490.0" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#0f172a">Phase 3 positive-label yield by branch</text>
+<text x="490.0" y="54" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#475569">Positive fraction among 40 branch-local CG-MD acquisitions.</text>
+<line x1="90" y1="440.0" x2="920" y2="440.0" stroke="#e2e8f0"/>
+<text x="80" y="444.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">0.00</text>
+<line x1="90" y1="369.0" x2="920" y2="369.0" stroke="#e2e8f0"/>
+<text x="80" y="373.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">0.20</text>
+<line x1="90" y1="298.0" x2="920" y2="298.0" stroke="#e2e8f0"/>
+<text x="80" y="302.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">0.40</text>
+<line x1="90" y1="227.0" x2="920" y2="227.0" stroke="#e2e8f0"/>
+<text x="80" y="231.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">0.60</text>
+<line x1="90" y1="156.0" x2="920" y2="156.0" stroke="#e2e8f0"/>
+<text x="80" y="160.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">0.80</text>
+<line x1="90" y1="85.0" x2="920" y2="85.0" stroke="#e2e8f0"/>
+<text x="80" y="89.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">1.00</text>
+<rect x="202.3" y="271.4" width="52.0" height="168.6" fill="#2563eb" rx="2"/>
+<text x="228.3" y="265.4" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">0.475</text>
+<text x="228.3" y="460" transform="rotate(28 228.3 460)" text-anchor="start" font-family="Arial" font-size="11" fill="#334155">predictive entropy</text>
+<rect x="479.0" y="253.6" width="52.0" height="186.4" fill="#2563eb" rx="2"/>
+<text x="505.0" y="247.6" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">0.525</text>
+<text x="505.0" y="460" transform="rotate(28 505.0 460)" text-anchor="start" font-family="Arial" font-size="11" fill="#334155">family qbc</text>
+<rect x="755.7" y="271.4" width="52.0" height="168.6" fill="#2563eb" rx="2"/>
+<text x="781.7" y="265.4" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">0.475</text>
+<text x="781.7" y="460" transform="rotate(28 781.7 460)" text-anchor="start" font-family="Arial" font-size="11" fill="#334155">cluster diverse representative</text>
+<text x="22" y="262.5" transform="rotate(-90 22 262.5)" text-anchor="middle" font-family="Arial" font-size="13" fill="#334155">Positive-label fraction</text>
+</svg>
